@@ -1,0 +1,373 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Orthogonal Prompt Engineering Methodology</title>
+    <!-- MathJax Configuration -->
+    <script>
+        MathJax = {
+          tex: {
+            inlineMath: [['\\(', '\\)']], // Define inline math delimiters
+            displayMath: [['\\[', '\\]']]  // Define display math delimiters
+          },
+          svg: {
+            fontCache: 'global' // Use SVG output with global font cache
+          }
+        };
+    </script>
+    <!-- Load MathJax -->
+    <script type="text/javascript" id="MathJax-script" async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+    </script>
+    <!-- Basic Styling -->
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            line-height: 1.6;
+            margin: 0 auto;
+            max-width: 800px;
+            padding: 2em;
+            color: #54a286; /* Default text color */
+            background-color: #171c36;
+        }
+        h1, h2, h3 {
+            color: #565768; /* Darker headings */
+            border-bottom: 1px solid #548485; /* Subtle line under headings */
+            padding-bottom: 0.3em;
+        }
+        h1 { font-size: 2.2em; }
+        h2 { font-size: 1.8em; }
+        h3 { font-size: 1.4em; }
+        code {
+            background-color: #503a4f; /* Muted light grey for inline code */
+            border-radius: 3px;
+            font-size: 85%;
+            padding: 0.2em 0.4em;
+            font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+            color: #89b4b8; /* Ensure inline code text is readable */
+        }
+        pre {
+            background-color: #503a4f; /* Standard light grey for code blocks */
+            border: 1px solid #ddd; /* Add a light border */
+            border-radius: 3px;
+            padding: 1em;
+            overflow: auto;
+            color: #99e5bb; /* Dark text for code blocks */
+        }
+        pre code {
+            background-color: transparent; /* Inherit pre background */
+            padding: 0;
+            font-size: 100%; /* Reset font size within pre */
+            border: none; /* No border for code inside pre */
+            color: inherit; /* Inherit pre text color */
+        }
+        a {
+            color: hsl(223, 42%, 55%); /* Standard link blue */
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        ul, ol {
+            padding-left: 2em;
+        }
+        hr {
+            height: 0.25em;
+            padding: 0;
+            margin: 24px 0;
+            background-color: #385c59; /* Lighter grey horizontal rule */
+            border: 0;
+        }
+        .center {
+            text-align: center;
+        }
+        .tag {
+          display: inline-block;
+          padding: 0.2em 0.6em;
+          margin: 0.2em;
+          font-size: 0.8em;
+          font-weight: bold;
+          color: #fff; /* White text on tags */
+          background-color: #6c757d; /* Muted grey background for tags */
+          border-radius: 3px;
+        }
+        /* Style for MathJax display equations */
+        mjx-container[display="true"] {
+            display: block;
+            overflow-x: auto;
+            overflow-y: hidden;
+            margin: 1em 0;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="center">
+        <h1>🧠📖 Bible ChatGPT Prompts [CSV Dataset]</h1>
+    </div>
+
+    <p>
+        <span class="tag">License: cc0-1.0</span>
+        <span class="tag">Tags: ChatGPT</span>
+        <span class="tag">Tags: Bible</span>
+        <span class="tag">Tags: Theology</span>
+        <span class="tag">Tags: Christian Apologetics</span>
+        <span class="tag">Task Categories: text-generation</span>
+        <span class="tag">Task Categories: question-answering</span>
+        <span class="tag">Size Categories: 1K&lt;n&lt;10K</span>
+    </p>
+
+    <h2>Read Our Papers</h2>
+    <p>Dive deeper into the theory and application of Orthogonal Prompt Engineering:</p>
+    <ul>
+        <li><a href="./Orthogonality and High-Dimensional Vector Spaces in Generative AI Music Creation.pdf" target="_blank" rel="noopener noreferrer">Orthogonality and High-Dimensional Vector Spaces in Generative AI Music Creation</a> - Explores the theoretical underpinnings of using orthogonal vectors for AI music generation.</li>
+        <li><a href="./Use Case - Creating a Song with Targeted Emotional and Stylistic Nuance.pdf" target="_blank" rel="noopener noreferrer">Use Case - Creating a Song with Targeted Emotional and Stylistic Nuance</a> - Provides a practical example of using orthogonal vectors for AI music generation.</li>
+    </ul>
+
+    <p>
+        A curated collection of specialized ChatGPT prompts for biblical studies, theological research, and Christian apologetics. This dataset enables AI assistants to provide nuanced analysis of scripture, theological concepts, and historical religious contexts. Additional prompts included for all religions, philosophies, sciences, and other areas of study, e.g., anthropology, mathematics, and computer science.
+    </p>
+
+    <h2>Features</h2>
+    <ul>
+        <li>5 detailed prompt templates for theological AI interactions</li>
+        <li>Focused on key areas: Dispensationalism, Eschatology, Ecclesiology, Soteriology</li>
+        <li>CSV format for easy integration with AI applications</li>
+        <li>Includes prompts for comparative religious studies</li>
+    </ul>
+
+    <h2>Dataset Structure</h2>
+    <pre><code>Act,Prompt
+"Bible Scholar 1","I need help categorizing aspects of Dispensationalism..."
+</code></pre>
+
+    <h2>Contributing</h2>
+    <p>Contributions welcome! Please:</p>
+    <ol>
+        <li>Open an issue to discuss proposed changes</li>
+        <li>Fork the repository</li>
+        <li>Submit a pull request with updated prompts</li>
+    </ol>
+
+    <h2>License</h2>
+    <p><a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal</a> - No rights reserved. Attribution appreciated but not required.</p>
+
+    <h2>LLM Code Generation Notice</h2>
+    <p>Portions of this codebase were generated or refined using large language models (LLMs) including models such as Gemini, ChatGPT, Claude, DeepSeek, Qwen, Dolphin-Llama, and more, integrated API Plugins Such as Cline, Continue, Roo Code, and more, and Service Providers such as OpenRouter, Ollama, HuggingFace, Cursor, and GitHub Copilot and more. Final code was reviewed and adapted by the project maintainer. Use at your own risk.</p>
+
+    <h2>Limitation of Liability Statement and Statement of Copyright Protection</h2>
+    <p>For a complete Limitation of Liability Statement, please visit <a href="https://docs.google.com/document/d/1F8WUkStTyV0ZcsjluN9WtvUm29hRzqNtZ7GcNX76acA/edit?usp=sharing">link</a> and <a href="https://docs.google.com/document/d/1q4zYgmg0Aoo5_5znIlJDfmD7coEDaDh5KLCaxHiKQOI/edit?usp=sharing">link</a>.</p>
+
+    <hr>
+
+    <h1>Orthogonal Prompt Engineering: High-Dimensional Creative Methodology</h1>
+
+    <p>This README provides a structured introduction to the methodology of prompt engineering using high-dimensional orthogonal vector spaces. This method enables precise and controlled generative outputs using Large Language Models (LLMs) and generative AI systems.</p>
+
+    <h2>Overview</h2>
+    <p>This approach leverages mathematically-defined orthogonality to ensure conceptual independence among traits used for generative AI inputs. Each trait exists as an independent dimension, resulting in controlled and innovative creative outputs.</p>
+
+    <h2>Quickstart Guide</h2>
+    <p>Follow these steps to replicate the orthogonal prompt engineering methodology:</p>
+
+    <h3>Step 1: Define Mutually Independent Dimensions</h3>
+    <p>Create two sets of 32 independent dimensions each:</p>
+    <ul>
+        <li><strong>Character Dimensions (C01–C32)</strong>: Traits defining psychological and emotional states.</li>
+        <li><strong>Story Dimensions (S01–S32)</strong>: Traits defining narrative structures and events.</li>
+    </ul>
+    <p>Ensure each trait is conceptually independent.</p>
+
+    <h3>Step 2: Sample a Vector from the Defined Space</h3>
+    <p>Select specific traits from both sets (Character & Story) to create an initial prompt vector. Example:</p>
+    <ul>
+        <li><strong>Character</strong>: Inner Turbulence, Emotional Inaccessibility, Nonlinear Intuition, etc.</li>
+        <li><strong>Story</strong>: Public Fall from Grace, Discovery of Hidden Power, Transformation Through Illness, etc.</li>
+    </ul>
+
+    <h3>Step 3: Generate Creative Outputs</h3>
+    <ul>
+        <li><strong>3a. Generate Style</strong>: Combine selected Character and Story dimensions into a coherent style prompt.</li>
+        <li><strong>3b. Generate Lyrics</strong>: Further refine the prompt using the previously generated Style along with Character and Story traits.</li>
+    </ul>
+    <p>Example structured prompt:</p>
+    <blockquote>
+        <p>"Compose an indie folk song characterized by acoustic instrumentation and soft vocals. The emotional tone should reflect melancholic introspection with subtle hopeful resilience."</p>
+    </blockquote>
+
+    <h3>Step 4: Orthogonal Sampling and Exploration</h3>
+    <ul>
+        <li><strong>Element-wise Opposites</strong>: Initially, sample vectors orthogonal (opposite) to the original vector to explore immediate conceptual opposites.</li>
+        <li><strong>Additional Orthogonal Sampling</strong>: Request further vectors orthogonal to previous samples. Initial orthogonality is straightforward; subsequent orthogonality will require more nuanced exploration, producing intriguing results.</li>
+    </ul>
+
+    <h3>Step 5: Iteration and Expansion</h3>
+    <p>When exhausted, define 64 new dimensions orthogonal to all previous vectors, thus continually expanding your creative possibility space.</p>
+
+    <h2>Practical Usage</h2>
+    <p>This approach can systematically explore new conceptual territories while maintaining clear creative intent. It's particularly effective for:</p>
+    <ul>
+        <li><strong>Music Production</strong>: Crafting emotionally nuanced musical compositions.</li>
+        <li><strong>Storytelling</strong>: Structuring complex narratives and character developments.</li>
+        <li><strong>Branding and Corporate Art</strong>: Ensuring innovative yet cohesive brand expressions.</li>
+    </ul>
+
+    <h2>Testing and Validation</h2>
+    <p>While the theoretical model of orthogonality ensures independence, practical orthogonality should be validated through embedding techniques (e.g., GloVe embeddings) to confirm semantic independence.</p>
+
+    <h2>Copyright Protection</h2>
+    <p>Because engineered prompts can precisely dictate generative outputs, this methodology supports potential copyright protections, ensuring creative work is legally and ethically safeguarded.</p>
+
+    <h2>Conclusion</h2>
+    <p>This methodology opens the traditionally opaque "black box" of LLMs, providing transparent, controlled, and repeatable generative outputs. It represents prompt engineering in its truest sense, offering substantial advancements in creative precision and control.</p>
+
+    <hr>
+
+    <p>Here's a clear, parameterized algorithm to systematically construct two orthogonal vector spaces, ensuring orthogonality through sequential construction. We'll discuss both methods briefly before providing the algorithm explicitly:</p>
+
+    <h3>Two Possible Approaches:</h3>
+    <ol>
+        <li><strong>Sequential Construction (from nothing):</strong> Start with an empty set and iteratively add vectors, ensuring at each step that the new vector is orthogonal to all previously added vectors.</li>
+        <li><strong>Parameterized Approach (N dimensions):</strong> Start by defining a vector space with dimension \( N \). Construct another space such that every vector in this new space is orthogonal (dot product = 0) to all vectors in the original space.</li>
+    </ol>
+    <p>Both methods are valid, but the parameterized approach is typically preferred in computational practice due to clarity and explicit control over dimensionality.</p>
+    <p>Below is the parameterized approach clearly outlined:</p>
+
+    <hr>
+
+    <h3>Parameterized Orthogonal Vector Space Construction (Algorithm):</h3>
+
+    <p><strong>Inputs:</strong></p>
+    <ul>
+        <li>A set of vectors \(A\), each of dimension \(N\), forming the basis of the first vector space.</li>
+        <li>Desired dimensionality \(M\) of the second (orthogonal) vector space, where \(M \leq N\).</li>
+    </ul>
+
+    <p><strong>Outputs:</strong></p>
+    <ul>
+        <li>A set of vectors \(B\), each of dimension \(N\), forming the basis of a second vector space orthogonal to \(A\).</li>
+    </ul>
+
+    <hr>
+
+    <h3>Algorithm Steps:</h3>
+
+    <p><strong>Step 1: Initialization</strong></p>
+    <ul>
+        <li>Let vector set \(A = \{a_1, a_2, ..., a_k\}\), each \(a_i \in \mathbb{R}^N\).</li>
+        <li>Confirm vectors in \(A\) are linearly independent and form a valid basis.</li>
+    </ul>
+
+    <p><strong>Step 2: Form Matrix Representation</strong></p>
+    <ul>
+        <li>Construct matrix \(M_A\) whose rows are the vectors in \(A\):</li>
+    </ul>
+    \[
+    M_A = \begin{bmatrix}
+    a_{1,1} & a_{1,2} & \dots & a_{1,N} \\
+    a_{2,1} & a_{2,2} & \dots & a_{2,N} \\
+    \vdots & \vdots & \ddots & \vdots \\
+    a_{k,1} & a_{k,2} & \dots & a_{k,N}
+    \end{bmatrix}
+    \]
+
+    <p><strong>Step 3: Compute Orthogonal Complement via SVD</strong></p>
+    <ul>
+        <li>Compute the Singular Value Decomposition (SVD) of \(M_A\):</li>
+    </ul>
+    \[
+    M_A = U \Sigma V^T
+    \]
+    <ul>
+        <li>The orthogonal complement is found from the null space of \(M_A\), represented by singular vectors in \(V\) corresponding to zero singular values.</li>
+    </ul>
+
+    <p><strong>Step 4: Extract Orthogonal Complement Vectors</strong></p>
+    <ul>
+        <li>Identify vectors from \(V\) corresponding to zero (or near-zero numerically) singular values; these vectors span the orthogonal complement space.</li>
+    </ul>
+
+    <p><strong>Step 5: Form Orthogonal Vector Space \(B\)</strong></p>
+    <ul>
+        <li>Select the first \(M\) vectors from the orthogonal complement to form your second vector space \(B\).</li>
+    </ul>
+
+    <hr>
+
+    <h3>Python Implementation Example:</h3>
+    <p>Below is a practical Python implementation of this algorithm using NumPy:</p>
+    <pre><code class="language-python">
+import numpy as np
+
+def orthogonal_complement_space(vectors, M=None, tol=1e-10):
+    # Form matrix from input vectors (rows)
+    matrix_A = np.vstack(vectors)
+
+    # Compute Singular Value Decomposition
+    U, S, Vt = np.linalg.svd(matrix_A)
+
+    # Identify vectors in the null space (orthogonal complement)
+    # These are the rows of Vt corresponding to singular values close to zero
+    null_space_basis_rows = Vt[S <= tol]
+
+    # The null space vectors are the columns of V corresponding to zero singular values.
+    # In Vt (V transpose), these are the rows.
+    # So, null_space_basis_rows contains the basis vectors as rows.
+    # We typically want them as columns for consistency or further processing,
+    # but returning them as rows is also common. Let's return as rows.
+    null_space = null_space_basis_rows # Each row is a basis vector
+
+    # If M is specified, limit dimensions
+    if M is not None:
+        if null_space.shape[0] >= M:
+            # Select the first M basis vectors (rows)
+            null_space = null_space[:M, :]
+        else:
+            # Raise an error if the null space dimension is less than requested M
+            raise ValueError(f"Orthogonal complement dimension ({null_space.shape[0]}) is less than the requested {M} dimensions.")
+
+    # Return the basis vectors for the orthogonal complement space (as rows)
+    return null_space
+
+# Example usage:
+# Define vectors for the initial space A (as rows)
+vectors_A = np.array([
+    [1, 0, 0, 0],
+    [0, 1, 0, 0]
+])
+
+# Construct orthogonal complement space B (requesting all possible dimensions)
+vectors_B = orthogonal_complement_space(vectors_A)
+
+# Print the basis vectors for the orthogonal space B
+print("Orthogonal Vector Space B (Basis Vectors as rows):")
+print(vectors_B)
+
+# Verify orthogonality: dot product of each vector in A with each vector in B should be close to zero
+print("\nVerification of Orthogonality:")
+for i, a in enumerate(vectors_A):
+    for j, b in enumerate(vectors_B):
+        dot_product = np.dot(a, b)
+        # Check if the absolute value of the dot product is below the tolerance
+        is_orthogonal = np.abs(dot_product) < 1e-9 # Use a small tolerance for floating point checks
+        print(f"Dot product of A[{i}] and B[{j}]: {dot_product:.2e} -> Orthogonal: {is_orthogonal}")
+    </code></pre>
+
+    <hr>
+
+    <h3>Explanation of the Provided Code:</h3>
+    <ul>
+        <li>The function <code>orthogonal_complement_space</code> takes input vectors defining space \(A\).</li>
+        <li>Uses SVD to find the null space (orthogonal complement), thus constructing space \(B\).</li>
+        <li>Allows explicit parameterization with desired dimensionality \(M\).</li>
+        <li>Verifies that resulting vectors are orthogonal to the original vectors.</li>
+    </ul>
+
+    <hr>
+
+    <h3>Conclusion:</h3>
+    <p>This parameterized SVD-based approach provides a robust and mathematically rigorous method for explicitly constructing two orthogonal vector spaces, starting with a known set of vectors in space \(A\) and systematically generating a space \(B\) fully orthogonal to it.</p>
+
+</body>
+</html>
