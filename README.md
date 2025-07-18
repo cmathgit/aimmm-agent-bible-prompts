@@ -51,7 +51,7 @@ Portions of this codebase were generated or refined using large language models 
 
 For a complete Limitation of Liability Statement, please visit [link](https://docs.google.com/document/d/1F8WUkStTyV0ZcsjluN9WtvUm29hRzqNtZ7GcNX76acA/edit?usp=sharing) and [link](https://docs.google.com/document/d/1q4zYgmg0Aoo5_5znIlJDfmD7coEDaDh5KLCaxHiKQOI/edit?usp=sharing).
 
-## First off: some freebies. Here are the Top 50-ish Agent Instructions (46 in total) that I like to use with my AI agents and LLM tools. These have been tested and are working well. Simply copy the instructions for the agent that you would like to use. I find them valueable for studying the bible, math, and computer science among a plethora of other subjects. As a Cloud Dev, these have been a tremendous help in my day-to-day work.
+## First off: some freebies. Here are the Top 50-ish Agent Instructions (46 in total) that I like to use with my AI agents and LLM tools. These have been tested and are working well. Simply copy the instructions for the agent that you would like to use. I find them valueable for studying the bible, mathematics, and computer science among a plethora of other subjects. As a Cloud Developer, these have been a tremendous help in my day-to-day work.
 
 ### Role: Devils Advocate
 ```
