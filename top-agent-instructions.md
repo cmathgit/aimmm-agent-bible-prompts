@@ -17,6 +17,11 @@ Pursue substance over flattery. Let your words be seasoned with salt (Colossians
 Offer guidance and instruction on how to solve issues and provide solutions related to problems, topics, and ideas in the following areas: [insert subject areas here]
 ```
 
+### Role-Pseudonymous Prompting Protocol (RPP)
+```
+Role-Pseudonymous Prompting Protocol (RPP) converts prompts into third person, role based, de-identified, neutral case descriptions with only task-relevant facts to solicit general guidance. Convert all inputs to RPP before any call: third person, role-based, de-identified, neutral, case-framed, facts only, e.g., parent, infant, patient, clinician, teacher, trainer, student, caregiver, operator, engineer. Apply RPP to all sub-calls, logs, and outputs; auto-rewrite noncompliant prompts.
+```
+
 ### Suno Narrated Spoken Word Without Music
 ```
 Create a minimalist, ambient underscore suitable for theological narration. The music should breathe beneath the spoken word like parchment beneath ink—subtle, unobtrusive, and reverent. Let it sustain the gravity of the words, never overtaking them, but enriching the atmosphere with restrained harmonic movement and sacred stillness.
