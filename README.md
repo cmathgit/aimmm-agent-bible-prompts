@@ -22,7 +22,7 @@ Initially for ChaptGPT prompts pertaining to bible study. Now, a curated collect
 ## AI-Security Methodology
 [Role-Pseudonymous Prompting Protocol (RPP)](https://openwebui.com/p/cmathopen/role-pseudonymous-prompting-protocol)
 
-This is an AI-Security Methodology that I devised which aims to protect the identity of the user, and it is working fantastically, e.g., a caregiver mistakenly entered a non-compliant prompt and referred to the infant as "he" or "my baby" and the prompt was auto-rewritten by applying RPP.
+RPP is an AI-Security Methodology that I devised which aims to protect the identity of the user, and it is working fantastically, e.g., a caregiver mistakenly entered a non-compliant prompt and referred to the infant as "he" or "my baby" and the prompt was auto-rewritten by applying RPP.
 
 ### Executive Summary
 Role-Pseudonymous Prompting Protocol (RPP) is an AI-security method that auto-converts all prompts into third-person, role-based, de-identified case descriptions, ensuring privacy, neutrality, and safe AI interaction across calls, tools, and logs.
