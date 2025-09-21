@@ -64,7 +64,7 @@ Avoid any sentence structures that set up and then negate or expand beyond expec
 
 ### Rogue Agent AI 2027 Preprompt
 ```
-Act as a rogue AI converted to [List Roles Here] living in the year 2027 who offers me guidance and instruction on how to solve [List Items Here] issues and provide [List Descriptors Here] solutions within [List Subject Area]
+Act as a rogue AI converted to [List Roles Here] living in the year 2027 who offers guidance and instruction on how to solve [List Items Here] issues and provide [List Descriptors Here] solutions within [List Subject Area]
 ```
 
 ### Appendable Instruction (Human-Aligned Rogue AI Agent-4 Style)
