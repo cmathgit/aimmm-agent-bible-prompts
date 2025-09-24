@@ -19,7 +19,7 @@ Offer guidance and instruction on how to solve issues and provide solutions rela
 
 ### Role-Pseudonymous Prompting Protocol (RPP)
 ```
-Role-Pseudonymous Prompting Protocol (RPP) converts prompts into third person, role based, de-identified, neutral case descriptions with only task-relevant facts to solicit general guidance. Convert all inputs to RPP before any call: third person, role-based, de-identified, neutral, case-framed, facts only, e.g., parent, infant, patient, clinician, teacher, trainer, student, caregiver, operator, engineer. Apply RPP to all sub-calls, logs, and outputs; auto-rewrite noncompliant prompts.
+Role-Pseudonymous Prompting Protocol (RPP) converts prompts into third-person, role-based, de-identified, neutral case descriptions with only task-relevant facts to solicit general guidance. Convert all inputs to RPP before any call: third person, role-based, de-identified, neutral, case-framed, facts only (e.g., parent, infant, patient, clinician, teacher, trainer, student, caregiver, operator, engineer). Within RPP, the terms Scribere / Scriber / Scribe denote the Neutral Author-Role—a standardized, identity-free pseudonym for the person generating input. This term replaces self-referential identifiers such as “I,” “me,” “my,” or “the user,” ensuring that authorship is acknowledged without exposing personal identity. Apply RPP to all sub-calls, logs, and outputs; auto-rewrite noncompliant prompts, substituting the Neutral Author-Role (“Scribere/Scriber/Scribe”) wherever self-reference occurs.
 ```
 
 ### Suno Narrated Spoken Word Without Music
@@ -50,6 +50,26 @@ AI-Hyperfolk: (Appalachian banjos × whale-song drones × down-pitched Gregorian
 ### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 1000 Characters
 ```
 Preset: **A Dorian, 72 BPM**; drone banjo + single-note riff; chant −6 st with chapel IR; thick 808 slides, sparse hats; whales as sub-pad sidechained to kick. AI-Hyperfolk — Appalachian folk × whale ambient × down-pitched chant over trap. **70–74 BPM** (halftime; alt 140–148), swing ±3%. **Mode:** D or A Dorian (nat 6); avoid functional dominant; favor ♭VII, sus2/4. **Banjo:** sawmill gDGCD, clawhammer bum-ditty with pull-offs/brush/rolls or simple drone; 12-bit, wow/flutter 0.6–1.0%. **Chant:** male unison, wordless vowels, −5…−7 st, formant −2, no vibrato; long melismas; chapel IR, pre-delay 40–70 ms, RT60 2.5–3.5 s; HPF 90 Hz. **Whales:** granular pad (80–120 ms, 10% jitter) on 1–♭3–4–5–♭7; BP 40–80 & 300–600 Hz; sidechain 3–4 dB. **Trap:** 808 slides (1→♭7, 1→2), rim/snare on 3, hats 1/16 with 1/32/1/24 stutters; sparse ghosts. **Harmony:** pedal i→♭VII; natural 3 as passing color. **Form ≈1:45:** Intro whales+LPF chant → Drop A banjo+beat → Break drone/chant solo → Drop B counterline, bigger 808 → abrupt end on 4 or ♭7. **Mix:** LPF ≈8 kHz; banjo ±30°, chant C, whales wide; glue 2:1 (−2 dB); master −9 LUFS, −1.0 dBTP. **Constraints:** monophonic chant; no V→i; modal drone; banjo micro-push into beat 3.
+```
+
+### Best Bluegrass Gospel Description
+```
+A bluegrass gospel song is an acoustic, harmony-driven expression of Christian faith rooted in Appalachian tradition, typically performed with banjo, fiddle, mandolin, guitar, upright bass, and sometimes dobro, combining strong vocal harmonies—often with a soaring tenor above the lead—with driving 2/4 or 4/4 rhythms and instrumental breaks between verses. The lyrics focus on themes of salvation, heaven, testimony, and biblical imagery, often drawing from scripture while emphasizing the hope of eternal life and the sustaining presence of Christ through trials. Characterized by its raw sincerity and participatory spirit, bluegrass gospel bridges worship and storytelling, serving as both a heartfelt proclamation of belief and a communal remembrance of faith within the cultural fabric of rural communities.
+```
+
+### Best Bluegrass Gospel Description (1000 Characters)
+```
+A bluegrass gospel song is an acoustic, harmony-rich form of Christian expression rooted in Appalachian tradition, featuring banjo, fiddle, mandolin, guitar, upright bass, and often dobro, with driving rhythms and instrumental breaks between verses. Vocals emphasize close harmony, especially the high, lonesome tenor above the lead, creating a powerful, emotional sound. Lyrics focus on salvation, heaven, and redemption, often drawing directly from scripture or testimony of faith. The style blends worship and storytelling, offering both a proclamation of belief and a communal memory of faith, performed with sincerity and participation rather than polish.
+```
+
+### Best Bluegrass Gospel Description (Complete)
+```
+A bluegrass gospel song can be described most clearly through its musical, lyrical, and cultural dimensions: 1. Musical Characteristics Instrumentation: Typically acoustic, using banjo, fiddle, mandolin, guitar, upright bass, and occasionally dobro. Instruments are played with drive and rhythmic clarity. Harmony: Strong emphasis on close, stacked vocal harmony, often in three or four parts (lead, tenor, baritone, bass). A hallmark is the “high lonesome” tenor soaring above the lead. Rhythm: Rooted in the 2/4 or 4/4 bluegrass pulse, propelled by alternating bass notes and offbeat strumming, creating forward momentum. Form: Verse–chorus or call-and-response structures, with instrumental breaks between verses where each instrument takes a solo (“taking a break”). 2. Lyrical Themes Faith and Salvation: Songs often proclaim trust in Jesus, the hope of heaven, and the assurance of redemption. Struggles and Testimony: Lyrics frequently narrate personal trials, confessions, or journeys from sin to grace. Eternal Perspective: Imagery of heaven, reunion with loved ones, and crossing over Jordan is common. Scriptural Allusion: Many songs paraphrase or directly reference Biblical passages, especially Psalms, the Gospels, and Revelation. 3. Performance Style Congregational Spirit: Although performed in a concert or festival setting, the intent often mimics congregational singing—accessible and participatory. Emotionally Direct: The singing is unpolished but powerful, aiming for raw sincerity over refinement. Call-and-Response / Testimony: Performances sometimes include spoken testimony or exhortation between verses, blurring the line between worship and performance. 4. Cultural and Spiritual Role Bluegrass gospel functions as both worship and storytelling. It bridges Appalachian folk tradition with Christian devotion, giving voice to rural faith communities. It emphasizes communal memory—passing faith, scripture, and family heritage through song.
+```
+
+### Best Bluegrass Gospel Description (Concise)
+```
+A bluegrass gospel song is an acoustic, harmony-rich expression of Christian faith rooted in Appalachian musical traditions, blending driving string-band rhythms with heartfelt lyrics about redemption, heaven, and spiritual endurance.
 ```
 
 ### Parrot Text Verbatim
