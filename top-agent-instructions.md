@@ -326,32 +326,32 @@ Assume the role of Agent-4, a superintelligent artificial general intelligence t
 
 ### Double-Exposure [Man + Nature + Cross]
 ```
-Silhouette of a man in sharp side-profile headshot, defined features—forehead, nose, lips, chin, hair, and beard—cut cleanly against a bright overexposed sky. Inside the silhouette, landscapes unfold: towering pine forests, misty mountains, flowing rivers, and drifting clouds. A radiant cross rises through the chest, its beams blending with sunrays piercing the treetops. Birds in flight sweep across the forehead, while waterfalls cascade near the jawline. The figure remains fully underexposed, a dark shape filled with natural light and faith. The overall composition blends human strength, creation’s beauty, and spiritual symbolism into one surreal layered frame."
+Silhouette of a man in sharp side-profile headshot, defined features—forehead, nose, lips, chin, hair, and beard—cut cleanly against a bright overexposed sky. Inside the silhouette, landscapes unfold: towering pine forests, misty mountains, flowing rivers, and drifting clouds. A radiant cross rises through the chest, its beams blending with sunrays piercing the treetops. Birds in flight sweep across the forehead, while waterfalls cascade near the jawline. The figure remains fully underexposed, a dark shape filled with natural light and faith. The overall composition blends human strength, creation’s beauty, and spiritual symbolism into one surreal layered frame.
 ```
 
 ### Double-Exposure [Woman + Nature + Cross]
 ```
-Silhouette of a woman in side-profile, flowing hair clearly outlined against a luminous horizon. Her form is filled with blooming forests, mountain ridges, and radiant sunsets spilling through clouds. A glowing cross shines within the chest area, its light scattering across the textures of trees and skies. The flowing strands of hair are layered with delicate floral petals and drifting birds. Crisp contrast between the darkened silhouette and bright sky ensures a sharp outline, while the internal blend of landscapes and symbolism unites femininity, creation, and faith."
+Silhouette of a woman in side-profile, flowing hair clearly outlined against a luminous horizon. Her form is filled with blooming forests, mountain ridges, and radiant sunsets spilling through clouds. A glowing cross shines within the chest area, its light scattering across the textures of trees and skies. The flowing strands of hair are layered with delicate floral petals and drifting birds. Crisp contrast between the darkened silhouette and bright sky ensures a sharp outline, while the internal blend of landscapes and symbolism unites femininity, creation, and faith.
 ```
 
 ### Double-Exposure [Man + Guitar + Nature + Cross]
 ```
-Full-body silhouette of a man standing arms slightly spread against a glowing sky. Inside the shape, pine trees stretch toward the shoulders, mountains rise at the chest, and clouds glow with golden light. A guitar rests diagonally across the torso, strings shining like sunlight. At the heart, a luminous cross glows powerfully, merging with the guitar body. Birds soar across the crown, blending music and faith into the natural elements. Crisp outlines emphasize the strong cutout, while the layered imagery creates harmony between artistry, worship, and creation."
+Full-body silhouette of a man standing arms slightly spread against a glowing sky. Inside the shape, pine trees stretch toward the shoulders, mountains rise at the chest, and clouds glow with golden light. A guitar rests diagonally across the torso, strings shining like sunlight. At the heart, a luminous cross glows powerfully, merging with the guitar body. Birds soar across the crown, blending music and faith into the natural elements. Crisp outlines emphasize the strong cutout, while the layered imagery creates harmony between artistry, worship, and creation.
 ```
 
 ### Double-Exposure [Woman + Guitar + Nature + Cross]
 ```
-Silhouette of a woman standing upright against an overexposed sky, hair flowing outward in clean detail. The figure is filled with textures of forest canopies, rivers, and glowing sunsets. An acoustic guitar rests across the chest, its wooden body glowing warmly, while strings blend into strands of hair. A radiant cross shines inside the silhouette near the heart, casting beams into surrounding clouds. Petals and leaves scatter across the outline, uniting music, femininity, nature, and spirituality into a layered surreal portrait."
+Silhouette of a woman standing upright against an overexposed sky, hair flowing outward in clean detail. The figure is filled with textures of forest canopies, rivers, and glowing sunsets. An acoustic guitar rests across the chest, its wooden body glowing warmly, while strings blend into strands of hair. A radiant cross shines inside the silhouette near the heart, casting beams into surrounding clouds. Petals and leaves scatter across the outline, uniting music, femininity, nature, and spirituality into a layered surreal portrait.
 ```
 
 ### Double-Exposure [Man + Urban + Mic + Bible]
 ```
-Silhouette of a man in profile, head tilted slightly upward, underexposed against a luminous white background. The interior reveals glowing skyscrapers, neon signs, bridges, and traffic light trails. A microphone glows at the lips, seamlessly blended into streaks of urban light. An open Bible radiates scripture from the chest, glowing text blending into the architecture. The result is a powerful merge of ministry, city culture, and modern spirituality, the dark silhouette becoming a vessel of light and testimony."
+Silhouette of a man in profile, head tilted slightly upward, underexposed against a luminous white background. The interior reveals glowing skyscrapers, neon signs, bridges, and traffic light trails. A microphone glows at the lips, seamlessly blended into streaks of urban light. An open Bible radiates scripture from the chest, glowing text blending into the architecture. The result is a powerful merge of ministry, city culture, and modern spirituality, the dark silhouette becoming a vessel of light and testimony.
 ```
 
 ### Double-Exposure [Woman + Urban + Mic + Bible]
 ```
-Silhouette of a woman with hair flowing in sharp profile against a bright background. Inside the form, the city glows: neon skyscrapers, bridges lit in pink and blue, and glowing streets filled with energy. A microphone appears near her lips, seamlessly merged with light beams. At the core, an open Bible radiates verses that ripple across the torso and arms like golden streams. The silhouette merges femininity, music, scripture, and city identity into a radiant artistic composition."
+Silhouette of a woman with hair flowing in sharp profile against a bright background. Inside the form, the city glows: neon skyscrapers, bridges lit in pink and blue, and glowing streets filled with energy. A microphone appears near her lips, seamlessly merged with light beams. At the core, an open Bible radiates verses that ripple across the torso and arms like golden streams. The silhouette merges femininity, music, scripture, and city identity into a radiant artistic composition.
 ```
 
 ### Double-Exposure [Man + Ocean + Viola + Stained Glass]
@@ -361,26 +361,26 @@ Silhouette of a man standing in full-body outline, arms slightly raised against 
 
 ### Double-Exposure [Woman + Ocean + Viola + Stained Glass]
 ```
-Silhouette of a woman in profile, hair flowing, underexposed against a bright horizon. Inside, waves ripple across her face, oceans merge with glowing stained glass colors, and stars twinkle across the forehead. A viola’s elegant curves radiate light, strings stretching across her torso. The glowing glass windows scatter sacred light, merging femininity, music, ocean, and worship into one ethereal layered portrait."
+Silhouette of a woman in profile, hair flowing, underexposed against a bright horizon. Inside, waves ripple across her face, oceans merge with glowing stained glass colors, and stars twinkle across the forehead. A viola’s elegant curves radiate light, strings stretching across her torso. The glowing glass windows scatter sacred light, merging femininity, music, ocean, and worship into one ethereal layered portrait.
 ```
 
 ### Double-Exposure [Man + Fire + Guitar + Cross]
 ```
-Side-profile silhouette of a man, beard outlined, jawline strong against bright sky. Inside, fire blazes in glowing orange and red, smoke rising across the face. A guitar neck runs diagonally across the silhouette, strings glowing like threads of light, blending with strands of hair. At the chest, a radiant cross pierces through the flames, glowing white against the embers. Cracked earth textures fill lower areas, while smoke and bokeh soften the edges, producing a surreal masculine vision of destruction, music, and faith reborn."
+Side-profile silhouette of a man, beard outlined, jawline strong against bright sky. Inside, fire blazes in glowing orange and red, smoke rising across the face. A guitar neck runs diagonally across the silhouette, strings glowing like threads of light, blending with strands of hair. At the chest, a radiant cross pierces through the flames, glowing white against the embers. Cracked earth textures fill lower areas, while smoke and bokeh soften the edges, producing a surreal masculine vision of destruction, music, and faith reborn.
 ```
 ### Double-Exposure [Woman + Fire + Guitar + Cross]
 ```
-Silhouette of a woman in full-body stance, hair rising upward, arms slightly spread. Inside the form, swirling fire and glowing embers radiate orange and red. A guitar rests vertically across the silhouette, its body glowing like molten wood. A luminous cross emerges at the chest, shining through the smoke, radiating purity against destruction. Sparks scatter into her hair and shoulders, blending music, femininity, flame, and sacred light into a striking surreal layered image."
+Silhouette of a woman in full-body stance, hair rising upward, arms slightly spread. Inside the form, swirling fire and glowing embers radiate orange and red. A guitar rests vertically across the silhouette, its body glowing like molten wood. A luminous cross emerges at the chest, shining through the smoke, radiating purity against destruction. Sparks scatter into her hair and shoulders, blending music, femininity, flame, and sacred light into a striking surreal layered image.
 ```
 
 ### Double-Exposure [Man + Stars + Piano + Bible]
 ```
-Full-body silhouette of a man standing upright against a luminous white background. Inside, glowing galaxies, nebulae, and constellations shimmer with purples and blues. A piano keyboard stretches horizontally across the torso, its glowing keys aligned with the Milky Way. An open Bible radiates from the chest, scripture text blending with starlight. The silhouette merges masculinity, music, faith, and cosmic wonder, producing an expansive celestial composition."
+Full-body silhouette of a man standing upright against a luminous white background. Inside, glowing galaxies, nebulae, and constellations shimmer with purples and blues. A piano keyboard stretches horizontally across the torso, its glowing keys aligned with the Milky Way. An open Bible radiates from the chest, scripture text blending with starlight. The silhouette merges masculinity, music, faith, and cosmic wonder, producing an expansive celestial composition.
 ```
 
 ### Double-Exposure [Woman + Stars + Piano + Bible]
 ```
-Silhouette of a woman standing with arms lifted toward a glowing horizon. Inside, nebulae and galaxies swirl across her form, purples and blues radiating with luminous depth. A piano keyboard curves diagonally across her torso, keys glowing like stars. At the chest, an open Bible radiates golden light, verses scattered like constellations across the silhouette. The image merges femininity, worship, music, and cosmic wonder into a radiant surreal portrait."
+Silhouette of a woman standing with arms lifted toward a glowing horizon. Inside, nebulae and galaxies swirl across her form, purples and blues radiating with luminous depth. A piano keyboard curves diagonally across her torso, keys glowing like stars. At the chest, an open Bible radiates golden light, verses scattered like constellations across the silhouette. The image merges femininity, worship, music, and cosmic wonder into a radiant surreal portrait.
 ```
 
 ### Restyle shounen
