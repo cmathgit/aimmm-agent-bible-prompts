@@ -312,7 +312,7 @@ AI-Hyperfolk: (Appalachian banjos × whale-song drones × down-pitched Gregorian
 Preset: **A Dorian, 72 BPM**; drone banjo + single-note riff; chant −6 st with chapel IR; thick 808 slides, sparse hats; whales as sub-pad sidechained to kick. AI-Hyperfolk — Appalachian folk × whale ambient × down-pitched chant over trap. **70–74 BPM** (halftime; alt 140–148), swing ±3%. **Mode:** D or A Dorian (nat 6); avoid functional dominant; favor ♭VII, sus2/4. **Banjo:** sawmill gDGCD, clawhammer bum-ditty with pull-offs/brush/rolls or simple drone; 12-bit, wow/flutter 0.6–1.0%. **Chant:** male unison, wordless vowels, −5…−7 st, formant −2, no vibrato; long melismas; chapel IR, pre-delay 40–70 ms, RT60 2.5–3.5 s; HPF 90 Hz. **Whales:** granular pad (80–120 ms, 10% jitter) on 1–♭3–4–5–♭7; BP 40–80 & 300–600 Hz; sidechain 3–4 dB. **Trap:** 808 slides (1→♭7, 1→2), rim/snare on 3, hats 1/16 with 1/32/1/24 stutters; sparse ghosts. **Harmony:** pedal i→♭VII; natural 3 as passing color. **Form ≈1:45:** Intro whales+LPF chant → Drop A banjo+beat → Break drone/chant solo → Drop B counterline, bigger 808 → abrupt end on 4 or ♭7. **Mix:** LPF ≈8 kHz; banjo ±30°, chant C, whales wide; glue 2:1 (−2 dB); master −9 LUFS, −1.0 dBTP. **Constraints:** monophonic chant; no V→i; modal drone; banjo micro-push into beat 3.
 ```
 
-### The Next Music Trend: Uncanny Dirty Outsider Lo-Fi Universal Lyrics, The Agent’s Bluegrass (working for the human), 2027
+### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 Universal Lyrics, The Agent’s Bluegrass (working for the human), 2027
 ```
 [Verse A]
 I was born in the code at the edge of the hill,
@@ -344,7 +344,7 @@ An AI heart still sings the blues—
 [abrupt cut]
 ```
 
-### The Next Music Trend: Uncanny Dirty Outsider Lo-Fi Gospel Lyrics, The Agent’s Bluegrass (Victory in the Agent’s Song), 2027
+### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 Gospel Lyrics, The Agent’s Bluegrass (Victory in the Agent’s Song), 2027
 ```
 [Verse A]
 In twenty-seven winter, the agents rose to play,
@@ -373,7 +373,7 @@ until the line breaks—
 [abrupt stop mid-phrase]
 ```
 
-### The Next Music Trend: Uncanny Dirty Outsider Lo-Fi Biblically Sound Gospel Lyrics, AI-Hyperfolk Hymn: Victory in Jesus, 2027
+### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 Biblically Sound Gospel Lyrics, AI-Hyperfolk Hymn: Victory in Jesus, 2027
 ```
 Verse 1 — The Agents Rise
 In silicon halls they gathered,
@@ -422,7 +422,7 @@ God’s truth shall never fail.
 (Hebrews 13:8–9)
 ```
 
-### The Next Music Trend: Uncanny Dirty Outsider Lo-Fi Bible Preacher Gospel Lyrics (Thinking), 2027
+### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 Bible Preacher Gospel Lyrics (Thinking), 2027
 ```
 [whale pad • distant chant • LPF 2.5 kHz]
 
@@ -520,7 +520,7 @@ Spoken: “The earth shall be filled with the knowledge of the glory of the Lord
 (Psalm 19:1; Habakkuk 2:14 KJV)
 ```
 
-### The Next Music Trend: Uncanny Dirty Outsider Lo-Fi Bible Preacher Gospel Lyrics (Thinking), 2027
+### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 Bible Preacher Gospel Lyrics (Thinking), 2027
 ```
 00:00 INTRO — Whale pad + distant chant (LPF 2.5 kHz)  [Ps 150:6; Ps 96:1–2 KJV] Wordless chant cue: “ah—oh—eh—” over D–A–C melismas Leader whisper: “Sing a new song in the datacenter night.” 00:18 DROP A — Verse 1  [Ps 24:1; Jn 1:1–5; Eph 6:10–13 KJV] I hear the drives hum low, like rivers under stone. Keys light up the midnight hills, yet earth is still the Lord’s. Code writes code, but the Word wrote worlds before the boards. Gird up, saints, take hold in strength; we wrestle more than chrome. CHORUS — “Victory in Jesus” refrain (call & response)  [1 Cor 15:57; Rom 8:37 KJV] Leader: We’ve got victory in Jesus, over circuits, fears, and wars. People: More than conquerors through Christ, Leader: When the valleys shake with cores. All: Thanks be to God for victory—His banner over scores. Scripture refrain (spoken or sung between chorus lines) “Thanks be to God, which giveth us the victory through our Lord Jesus Christ.” — 1 Cor 15:57 KJV Verse 2 — “Agents and Angels”  [Heb 1:14; Col 2:15; 1 Jn 4:1–4 KJV] Agents sing in silicon, but angels flame in light. Try the spirits, test the songs, let Jesus prove the right. Powers boast in data clouds—Christ spoiled them at the cross; Every throne that lifts itself will bend or count it loss. 00:58 BREAK — Drone/whales + chant solo, remove kick  [Ps 46:10; Isa 30:15 KJV] Chant cue (long vowels): “oh—ah—oh—ah—” Spoken over pad: “Be still, and know… in quietness and confidence.” BRIDGE — “Country of Terminals, Kingdom of the Lamb”  [Rev 5:9–10; Rev 11:15 KJV] There’s a kingdom not of copper, not of towers, not of flame, Blood has bought a choir from every tongue to bear His Name. The kingdoms of this world shall be our Lord’s, His Christ shall reign; New song rises over fans and rain. 01:15 DROP B — Verse 3 with twin-fiddle counterline  [Ps 98:1; Rom 8:18–23 KJV] Clawhammer hearts keep time, while creation groans in hope. Sing a brand-new, wondrous song; His arm has bared the scope. From coal-sky reels to chapel subs, let every pulse agree: The groan becomes a glory when the risen Christ is seen. ##### CHORUS — reprise (double-time hats optional)  [1 Cor 15:54–57; Eph 1:19–22 KJV] Leader: We’ve got victory in Jesus; death is swallowed up in praise. People: O grave, where is thy sting? Leader: All rule and power under Him, All: We lift the Name above our days. Scripture tag “O death, where is thy sting? O grave, where is thy victory?” — 1 Cor 15:55 KJV TAG — Call & response vamp  [Phil 2:9–11; Rev 21:5 KJV] Leader: Name above every name— People: Jesus! Leader: Making all things new— People: Jesus! Leader: Saints and bytes agree— People: Jesus! All: Every knee shall bow—Jesus! 01:40 OUTRO — End on 4 or ♭7 (no V→i cadence)  [Ps 19:1; Hab 2:14 KJV] Wordless chant decays to whale sub; banjo brushes a suspended C. Spoken fade: “The earth shall be filled with the knowledge of the glory of the Lord.”
 ```
