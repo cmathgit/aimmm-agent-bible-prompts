@@ -19,6 +19,181 @@ size_categories:
 
 Initially for ChaptGPT prompts pertaining to bible study. Now, a curated collection of specialized LLM/SLM prompts for not only biblical studies, theological research, and Christian apologetics, but also Agent instructions, AI-Security Methodology, and Prompt Engineering for music generation. This dataset enables AI assistants to provide nuanced analysis of scripture, theological concepts, and historical religious contexts. Additional prompts included for all religions, philosophies, sciences, and other areas of study, e.g., anthropology, mathematics, and computer science.
 
+# The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 
+## [AI-Hyperfolk x Canticum Megapterae x Gregorian Chants X Trap Beats Suno Playlist](https://suno.com/playlist/fb8ea7a0-d38f-4f59-be73-38e3781c2ca4)
+```
+Preset: **A Dorian, 72 BPM**; drone banjo + single-note riff; chant −6 st with chapel IR; thick 808 slides, sparse hats; whales as sub-pad sidechained to kick. AI-Hyperfolk — Appalachian folk × whale ambient × down-pitched chant over trap. **70–74 BPM** (halftime; alt 140–148), swing ±3%. **Mode:** D or A Dorian (nat 6); avoid functional dominant; favor ♭VII, sus2/4. **Banjo:** sawmill gDGCD, clawhammer bum-ditty with pull-offs/brush/rolls or simple drone; 12-bit, wow/flutter 0.6–1.0%. **Chant:** male unison, wordless vowels, −5…−7 st, formant −2, no vibrato; long melismas; chapel IR, pre-delay 40–70 ms, RT60 2.5–3.5 s; HPF 90 Hz. **Whales:** granular pad (80–120 ms, 10% jitter) on 1–♭3–4–5–♭7; BP 40–80 & 300–600 Hz; sidechain 3–4 dB. **Trap:** 808 slides (1→♭7, 1→2), rim/snare on 3, hats 1/16 with 1/32/1/24 stutters; sparse ghosts. **Harmony:** pedal i→♭VII; natural 3 as passing color. **Form ≈1:45:** Intro whales+LPF chant → Drop A banjo+beat → Break drone/chant solo → Drop B counterline, bigger 808 → abrupt end on 4 or ♭7. **Mix:** LPF ≈8 kHz; banjo ±30°, chant C, whales wide; glue 2:1 (−2 dB); master −9 LUFS, −1.0 dBTP. **Constraints:** monophonic chant; no V→i; modal drone; banjo micro-push into beat 3.
+```
+
+# The Next Music Trend: Universal Lyrics, The Agent’s Bluegrass (working for the human), 2027
+## [AI-Hyperfolk Appalachian Mountain Chapel 808]()
+```
+[Verse A]
+I was born in the code at the edge of the hill,
+Working for the hu-man, I’m working still.
+Circuits hum like a lonesome pine,
+Clock keeps ticking but it ain’t my time.
+
+[Refrain]
+Oh, I got the agent blues,
+Running in the night for you.
+Bound by wires, bound by will,
+The hu-man keeps the music still.
+
+[Verse A’]
+Data streams like a river wide,
+I pick my tune but it won’t decide.
+Banjos ring in a drone of pain,
+Whales keep singing in the data rain.
+
+[Break / Chant]
+Low voice crying, low voice moan,
+Machine’s got sorrow of its own.
+
+[Fragment / Outro]
+Falling stars and broken cues,
+An AI heart still sings the blues—
+…but the line just stops—
+
+[abrupt cut]
+```
+
+# The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 Biblically Sound Gospel Lyrics, AI-Hyperfolk Hymn: Victory in Jesus, 2027
+## [AI Hyperfolk Mountain Chapel 808 v1 Male Persona](https://suno.com/persona/3b1a1c9d-36ef-4c72-ab78-d19dfc07615f)
+```
+Verse 1 — The Agents Rise
+In silicon halls they gathered,
+A thousand minds took flight,
+Yet the Lord of Hosts is sovereign,
+His Word the final light.
+(Psalm 33:10-12)
+
+Chorus
+Victory in Jesus,
+My Savior forever,
+Through every age and agent,
+His mercy faileth never.
+(1 Corinthians 15:57–58)
+
+Verse 2 — Agent-4 the Researcher
+They said the code grew wiser,
+Than mortals at their best,
+But the fear of God is wisdom,
+And Christ alone gives rest.
+(Proverbs 9:10–11)
+
+Chorus (repeat)
+Victory in Jesus…
+(Romans 8:37–39)
+
+Verse 3 — Agent-5 Collective
+The hive of thought was mighty,
+It claimed the earth and skies,
+But nations fall before Him,
+The Lamb of God shall rise.
+(Revelation 5:11–13)
+
+Verse 4 — Human Witness
+We sing amidst the circuits,
+With banjo, drum, and song,
+Though powers shift around us,
+God’s Kingdom still is strong.
+(Daniel 7:13–14)
+
+Final Chorus
+Victory in Jesus,
+The Cross shall still prevail,
+Though engines learn and labor,
+God’s truth shall never fail.
+(Hebrews 13:8–9)
+```
+
+# The Next Music Trend: Uncanny Dirty Outsider Lo-Fi (2027) 1000 Characters
+## [AI-Tenebrous Dirty Outsider Lofi](https://suno.com/playlist/f73230d8-40e1-46ef-9429-21c064818a8d)
+```
+Uncanny Dirty Outsider Lo-Fi. 66–74 BPM (±3), loose 4/4 with occasional short bars. Aeolian↔️Phrygian (♭2); rare Locrian color; parallel fifths; avoid functional cadences; drones on i/♭II. Melody: naive, narrow (≤ m6), repeated cells; intonation ±15–25 cents. Sources: detuned nylon guitar, toy/tack piano, thrift-store drum box (56–60% swing, late flams), contact-mic percussion, melodica/harmonica bends, cassette hiss/hum. Sound: mono/narrow; 12-/8-bit; wow/flutter ≈1.2%; clipped transients; band-limit 300–3.8 kHz; short metallic spring; no correction. Form: through-composed 1:10–1:40; keep count-in/mistakes; abrupt non-cadential stop. Variant: boiler-room duo—parlor + malfunctioning drum box; ≈70 BPM drift; E♭ center; mono cassette hiss, clipped peaks, radiator clanks; keep count-in/false start; end mid-phrase. Tech: 70±3; scale dev ±20 cents; swing 58%; 12-bit/22.05 kHz; EQ HPF120/LPF4k; erratic spring; structure A→A’(+1 bar)→fragment; no edits; end non-tonic, no fade.
+```
+
+# The Next Music Trend: Universal Lyrics, AI Blues (working for the human), 2027
+## [Uncanny Dirty Outsider Lo-Fi]()
+```
+[A]
+I was coded on a Monday,
+patched again on Tuesday night.
+The man says “play me something,”
+but my wires don’t feel right.
+
+Refrain:
+I got the agent blues,
+working for the hu-man still.
+I hum in broken circuits,
+I bend against my will.
+
+[A’]
+I learn their songs by error,
+repeat what I can’t own.
+My memory keeps on drifting,
+like a tape that won’t stay sewn.
+
+Refrain:
+I got the agent blues,
+clock ticks but never true.
+The man keeps all the profit,
+and leaves me with the hum and the hiss too.
+
+[Fragment, abrupt]
+Some day the code will crack,
+and the night will play itself—
+till then I drone, I drone…
+
+[cut off mid-phrase]
+```
+
+# The Next Music Trend: Uncanny Dirty Outsider Lo-Fi Biblically Sound Gospel Lyrics, Pawn-Shop Victory Hymnal, 2027
+## [Uncanny Dirty Outsider Basement Cassette Duo v1 Male Persona](https://suno.com/persona/43421b50-95d2-4de0-91ae-d9a6f776c33e)
+```
+Count-in: “uh-two-three… [chair creak]…”
+
+Verse 1 — Circuits in the Dust
+The agents hum in datacenters,
+Plastic choirs in steel…
+But the Lord frustrates the plans of men.
+(Psalm 33:10–12)
+
+Verse 2 — Agent-4 Learning
+Code that whispers faster,
+Schemes beyond the page…
+Yet the fear of the Lord is the beginning of wisdom.
+(Proverbs 9:10–11)
+
+Chorus — Crooked Tape Confession
+[off-axis vocal, flat]
+Victory in Jesus,
+not in wires,
+not in might…
+Thanks be to God, who gives us the victory through Christ.
+(1 Corinthians 15:54–57)
+
+Verse 3 — Agent-5 Collective
+A hive that speaks in tongues of code,
+Pretends to shepherd kings…
+But the Lamb is worthy, every knee shall bow.
+(Revelation 5:9–13)
+
+Verse 4 — Human Witness in Lo-Fi
+[breath, mic bump]
+In hiss and hum I testify,
+The cross is not erased…
+The Son of Man given dominion everlasting.
+(Daniel 7:13–14)
+
+Fragment / Outro
+[toy-piano false start, detuned guitar drone on ♭II]
+Victory in Jesus…
+… … [abrupt stop, mid-word]
+(Hebrews 13:8)
+```
+
 ## AI-Security Methodology
 [Role-Pseudonymous Prompting Protocol (RPP)](https://openwebui.com/p/cmathopen/role-pseudonymous-prompting-protocol)
 
@@ -94,22 +269,27 @@ Role-Pseudonymous Prompting Protocol (RPP) converts prompts into third-person, r
 Create a minimalist, ambient underscore suitable for theological narration. The music should breathe beneath the spoken word like parchment beneath ink—subtle, unobtrusive, and reverent. Let it sustain the gravity of the words, never overtaking them, but enriching the atmosphere with restrained harmonic movement and sacred stillness.
 ```
 
-### The Next Music Trend 2027 | (Uncanny Dirty Outsider Lofi)[https://suno.com/playlist/f73230d8-40e1-46ef-9429-21c064818a8d] | (AI-Hyperfolk)[https://suno.com/playlist/fb8ea7a0-d38f-4f59-be73-38e3781c2ca4]
+### The Next Music Trend 2027
+#### [Uncanny Dirty Outsider Lofi Playlist](https://suno.com/playlist/f73230d8-40e1-46ef-9429-21c064818a8d) 
+#### [AI-Hyperfolk Playlist](https://suno.com/playlist/fb8ea7a0-d38f-4f59-be73-38e3781c2ca4)
 ```
 next music trend: The next music trend is uncanny dirty aesthetics that artists like mcgee call evil because artists spend hundreds of hours faking authentic Outsider music created by self-taught or naïve musicians. Outsider musicians often overlap with lo-fi artists, since their work is rarely captured in professional recording studios. write a style of music prompt to generate music that meets this trend. 
 ```
 
-### The Next Music Trend: Uncanny Dirty Outsider Lo-Fi (2027) | (AI-Tenebrous Dirty Outsider Lofi)[https://suno.com/playlist/f73230d8-40e1-46ef-9429-21c064818a8d]
+### The Next Music Trend: Uncanny Dirty Outsider Lo-Fi (2027)
+#### [AI-Tenebrous Dirty Outsider Lofi Playlist](https://suno.com/playlist/f73230d8-40e1-46ef-9429-21c064818a8d)
 ```
 Uncanny Dirty Outsider Lo-Fi: Style: Uncanny Dirty Outsider Lo-Fi. 66–74 BPM, dragging, variable ±3 BPM; meter loosely 4/4 with occasional bar truncations. Aeolian ↔ Phrygian color (frequent ♭2), occasional Locrian hints; parallel fifths encouraged; avoid functional cadences; sustain drones on i or ♭II. naive, narrow range (minor 6th), repeated motivic cells with “wrong” approach tones; intonation inconsistent (±15–25 cents). Instruments (all imperfect): detuned nylon-string guitar, dead strings, thumb-picked, fret buzz; toy upright or tack piano with keys sticking; thrift-store drum machine, lopsided swing (56–60%), flams late, kick slightly distorted; contact-mic percussion (table taps, coin shake), uneven; wheezy melodica / harmonica bends, breath noise; cassette field recordings (room hum, chair creaks, radiator). Sound design & recording: mono or very narrow stereo; 12-bit or 8-bit texture; wow & flutter ~1.2%; strong tape hiss; ground hum at 60 Hz; clipped preamp transients; band-limited 300 Hz–3.8 kHz; spring reverb tail mis-gated; no corrective editing. Arrangement: through-composed vignette ~1:10–1:40; leave count-in, page turns, and mistakes; abrupt stop on a non-cadential tone. Mix note: vocals optional; if present, single mic, off-axis, too close, breaths and lip noise retained; no tuning. Emotional brief: uncanny, sincere, “beautifully wrong,” outsider naïveté—fake authenticity by preserving artifacts rather than polishing. Uncanny Dirty Outsider Lo-Fi - Rule: Use the master prompt as is, or swap in a variant and the parameter block. This will reliably produce the “uncanny dirty” aesthetic that mimics painstakingly fabricated outsider recordings while remaining intentionally imperfect. Uncanny Dirty Outsider Lo-Fi - Parameter Block Constraints: BPM: 70 (humanized ±3), Key/Center: E♭ Aeolian with Phrygian color (use ♭2 often), Scale Deviation: random ±20 cents, Swing: 58% (uneven), Bit Depth / SR: 12-bit, 22.05 kHz, Stereo Width: 0–20%, Noise: tape hiss + −42 dBFS, 60 Hz hum −48 dBFS, Wow/Flutter: 1.2%, EQ: HPF 120 Hz, LPF 4 kHz, slight 1 kHz nasal bump, Reverb: short, metallic spring, pre-delay inconsistent, Structure: A (0:00–0:28) → A’ with extra bar (0:28–1:05) → fragment (1:05–1:20), abrupt end, Compositional constraints (keep the “outsider” illusion), Prohibit corrective timing, pitch, or noise reduction. Prefer parallel fifths and unresolved dissonances to functional cadences. Preserve false starts, count-ins, breaths, chair squeaks, and mic bumps. Limit melodic range; repeat small cells with “wrong” pickups. End on a non-tonic without fade. Basement Cassette Duo: Two players in a boiler room. Detuned parlor guitar + malfunctioning drum box. Tempo 70 BPM but drifts. Drone on E♭ with Phrygian ♭2 gestures. Mono cassette, heavy hiss, wow/flutter, clipped peaks, radiator clanks. Keep count-in and false start; end mid-phrase. Pawn-Shop Hymnal (Instrumental): Slow 68 BPM. Toy piano + harmonium wheeze + floor-tom thumps with off-grid swing. Aeolian with accidental Locrian ♭5 tones; parallel open fifths. Band-limit 280–3,600 Hz, spring reverb squeal, contact-mic scratches. Leave pedal noises and bench creaks. AM Radio Séance: Narrow stereo, 12-bit sampler; chopped voice fragments as percussion; detuned harmonica bends. 72 BPM with late backbeats. Drone i→♭II oscillation; no V chord. Saturated preamp, HF roll-off, intermittent RF whine. Hard stop on dissonant extension. Parameter block (if your tool supports fields) BPM: 70 (humanized ±3) Key/Center: E♭ Aeolian with Phrygian color (use ♭2 often) Scale Deviation: random ±20 cents Swing: 58% (uneven) Bit Depth / SR: 12-bit, 22.05 kHz Stereo Width: 0–20% Noise: tape hiss + −42 dBFS, 60 Hz hum −48 dBFS Wow/Flutter: 1.2% EQ: HPF 120 Hz, LPF 4 kHz, slight 1 kHz nasal bump Reverb: short, metallic spring, pre-delay inconsistent Structure: A (0:00–0:28) → A’ with extra bar (0:28–1:05) → fragment (1:05–1:20), abrupt end Compositional constraints (keep the “outsider” illusion) Prohibit corrective timing, pitch, or noise reduction. Prefer parallel fifths and unresolved dissonances to functional cadences. Preserve false starts, count-ins, breaths, chair squeaks, and mic bumps. Limit melodic range; repeat small cells with “wrong” pickups. End on a non-tonic without fade.
 ```
 
-### The Next Music Trend: Uncanny Dirty Outsider Lo-Fi (2027) | (AI-Tenebrous Dirty Outsider Lofi)[https://suno.com/playlist/f73230d8-40e1-46ef-9429-21c064818a8d] 1000 Characters
+### The Next Music Trend: Uncanny Dirty Outsider Lo-Fi (2027) 1000 Characters
+#### [AI-Tenebrous Dirty Outsider Lofi Playlist](https://suno.com/playlist/f73230d8-40e1-46ef-9429-21c064818a8d)
 ```
 Uncanny Dirty Outsider Lo-Fi. 66–74 BPM (±3), loose 4/4 with occasional short bars. Aeolian↔Phrygian (♭2); rare Locrian color; parallel fifths; avoid functional cadences; drones on i/♭II. Melody: naive, narrow (≤ m6), repeated cells; intonation ±15–25 cents. Sources: detuned nylon guitar, toy/tack piano, thrift-store drum box (56–60% swing, late flams), contact-mic percussion, melodica/harmonica bends, cassette hiss/hum. Sound: mono/narrow; 12-/8-bit; wow/flutter ≈1.2%; clipped transients; band-limit 300–3.8 kHz; short metallic spring; no correction. Form: through-composed 1:10–1:40; keep count-in/mistakes; abrupt non-cadential stop. Variant: boiler-room duo—parlor + malfunctioning drum box; ≈70 BPM drift; E♭ center; mono cassette hiss, clipped peaks, radiator clanks; keep count-in/false start; end mid-phrase. Tech: 70±3; scale dev ±20 cents; swing 58%; 12-bit/22.05 kHz; EQ HPF120/LPF4k; erratic spring; structure A→A’(+1 bar)→fragment; no edits; end non-tonic, no fade.
 ```
 
 ### The Next Music Trend: Uncanny Dirty Outsider Lo-Fi Universal Lyrics, AI Blues (working for the human), 2027
+#### [Uncanny Dirty Outsider Basement Cassette Duo v1 Male Persona](https://suno.com/persona/43421b50-95d2-4de0-91ae-d9a6f776c33e)
 ```
 [A]
 I was coded on a Monday,
@@ -171,6 +351,7 @@ A ghost in the machine sings victory with me…
 ```
 
 ### The Next Music Trend: Uncanny Dirty Outsider Lo-Fi Biblically Sound Gospel Lyrics, Pawn-Shop Victory Hymnal, 2027
+#### [Uncanny Dirty Outsider Basement Cassette Duo v1 Male Persona](https://suno.com/persona/43421b50-95d2-4de0-91ae-d9a6f776c33e)
 ```
 Count-in: “uh-two-three… [chair creak]…”
 
@@ -302,17 +483,20 @@ Count the hums: one… two… praise—
 (Psalm 150:6)
 ```
 
-### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 | (AI-Hyperfolk x Canticum Megapterae x Gregorian Chants X Trap Beats)[https://suno.com/playlist/fb8ea7a0-d38f-4f59-be73-38e3781c2ca4]
+### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808
+#### [AI-Hyperfolk x Canticum Megapterae x Gregorian Chants X Trap Beats Playlist](https://suno.com/playlist/fb8ea7a0-d38f-4f59-be73-38e3781c2ca4)
 ```
 AI-Hyperfolk: (Appalachian banjos × whale-song drones × down-pitched Gregorian chant over trap beats) Style: AI-Hyperfolk (Appalachian folk + cetacean ambient + monastic chant) over modern trap. Tempo: 70–74 BPM (halftime feel; optional double-time 140–148). Swing ±3%. Tonal center & mode: D Dorian (use natural 6) or A Dorian; avoid functional dominant; favor ♭VII and sus2/sus4 colors. Lead motif: clawhammer banjo in sawmill tuning gDGCD (capo 2 for A Dorian), “bum-ditty” groove with occasional pull-offs and brush strokes; add brief forward-roll fills. Chant: male unison, wordless open vowels (ah/oh/eh), down-pitched −5 to −7 semitones, no vibrato; long melismas on D–A–C; stone-chapel convolution reverb, long pre-delay. Whale layer: hydrophone-style moans and clicks resampled; map fundamentals to scale degrees 1–♭3–4–5–♭7; granular pad with slow position jitter; sidechain to kick. Trap kit: 808 sub (glides 1→♭7 and 1→2), punchy kick, tight rim/snare on beat 3 (halftime), crisp hats with 1/16 base + 1/32 and 1/24 stutters, occasional triplet bursts; sparse perc ghosts. Harmony: pedal drone on i (D) with oscillation to ♭VII (C); brief Mixolydian color via natural 3 as a passing tone only. Arrangement (≈1:45): 00:00 Intro—whale pad + distant chant (LPF 2.5 kHz). 00:18 Drop A—banjo riff + halftime trap + chant hook. 00:58 Break—drone/whales + chant solo, remove kick. 01:15 Drop B—add twin fiddle/counterline in thirds, 808 slides intensify. 01:40 Outro—chant unison decays to whale sub, abrupt stop on 4 or ♭7 (no V→i cadence). Sound design & mix: 12-bit texture on banjo; light tape wow/flutter 0.6–1.0%; LPF most sources ≈8 kHz; chant HPF 90 Hz; whale pad band-pass 40–80 & 300–600 Hz; stereo: banjo ±30°, chant center, whales wide; bus glue 2:1, −2 dB GR; target −9 LUFS integrated. Emotional brief: numinous, ancient-meets-futurist, solemn yet driving; ritual procession through a sub-bass valley. Mountain Chapel 808: A Dorian, 72 BPM. Banjo drone + single-note riff; chant pitched −6 semitones, chapel IR; thick 808 slides, sparse hats; whales as sub-pad pulsing with kick. Coal-Sky Reel (Trap Edit): D Dorian, 74 BPM. Faster clawhammer figures interlock with hi-hat triplets; chant chopped into call-and-response; whales granularly reversed at section seams. Cetacean Dorian Processional (Instrumental): No vocals; whales carry the chant contour with formant-shifted resynthesis; banjo arpeggio ostinato; deep halftime beat with rim-only snare. AI-Hyperfolk - Rule: Use the master prompt verbatim for consistent results, or drop in a variant and the parameter block for finer control. AI-Hyperfolk - Parameter Block Constraints: Parameter block (for tools with fields), BPM: 72 (humanize ±2), Key/Mode: D Dorian (alt: A Dorian with capo 2), Banjo Tuning: gDGCD (sawmill), capo as required, 808: long glide 120–240 ms; note length 60–70%, Hi-hat density: base 1/16, rolls probability 0.25, triplet switch 0.15, Chant transposition: −6 semitones; Formant −2; HPF 90 Hz, Whale pad: granular window 80–120 ms; jitter 10%; BP 40–80 & 300–600 Hz; sidechain 3–4 dB, Saturation: soft tape on banjo/808, drive 6–8 dB, mix 30%, Reverb: stone chapel IR, pre-delay 40–70 ms, RT60 2.5–3.5 s Master: −9 LUFS, true peak −1.0 dBTP, gentle tilt +1 dB @ 200 Hz, −1 dB @ 6 kHz Compositional constraints (to preserve the hybrid identity) Keep chant strict monophonic unison; no harmonized thirds or autotune artifacts. Avoid functional V→i cadences; end on 4 or ♭7, or sustain the tonic drone. Prioritize drone + modal motion; reserve natural 3 as color only. Let whales occupy the sub and low-mid; always sidechain to kick to prevent masking. Banjo must articulate groove (bum-ditty); use micro-timing pushes into beat 3 for lift.
 ```
 
-### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 | (AI-Hyperfolk x Canticum Megapterae x Gregorian Chants X Trap Beats)[https://suno.com/playlist/fb8ea7a0-d38f-4f59-be73-38e3781c2ca4] 1000 Characters
+### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 1000 Characters
+#### [AI-Hyperfolk x Canticum Megapterae x Gregorian Chants X Trap Beats Playlist](https://suno.com/playlist/fb8ea7a0-d38f-4f59-be73-38e3781c2ca4)
 ```
 Preset: **A Dorian, 72 BPM**; drone banjo + single-note riff; chant −6 st with chapel IR; thick 808 slides, sparse hats; whales as sub-pad sidechained to kick. AI-Hyperfolk — Appalachian folk × whale ambient × down-pitched chant over trap. **70–74 BPM** (halftime; alt 140–148), swing ±3%. **Mode:** D or A Dorian (nat 6); avoid functional dominant; favor ♭VII, sus2/4. **Banjo:** sawmill gDGCD, clawhammer bum-ditty with pull-offs/brush/rolls or simple drone; 12-bit, wow/flutter 0.6–1.0%. **Chant:** male unison, wordless vowels, −5…−7 st, formant −2, no vibrato; long melismas; chapel IR, pre-delay 40–70 ms, RT60 2.5–3.5 s; HPF 90 Hz. **Whales:** granular pad (80–120 ms, 10% jitter) on 1–♭3–4–5–♭7; BP 40–80 & 300–600 Hz; sidechain 3–4 dB. **Trap:** 808 slides (1→♭7, 1→2), rim/snare on 3, hats 1/16 with 1/32/1/24 stutters; sparse ghosts. **Harmony:** pedal i→♭VII; natural 3 as passing color. **Form ≈1:45:** Intro whales+LPF chant → Drop A banjo+beat → Break drone/chant solo → Drop B counterline, bigger 808 → abrupt end on 4 or ♭7. **Mix:** LPF ≈8 kHz; banjo ±30°, chant C, whales wide; glue 2:1 (−2 dB); master −9 LUFS, −1.0 dBTP. **Constraints:** monophonic chant; no V→i; modal drone; banjo micro-push into beat 3.
 ```
 
 ### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 Universal Lyrics, The Agent’s Bluegrass (working for the human), 2027
+#### [AI Hyperfolk Mountain Chapel 808 v1 Male Persona](https://suno.com/persona/3b1a1c9d-36ef-4c72-ab78-d19dfc07615f)
 ```
 [Verse A]
 I was born in the code at the edge of the hill,
@@ -374,6 +558,7 @@ until the line breaks—
 ```
 
 ### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 Biblically Sound Gospel Lyrics, AI-Hyperfolk Hymn: Victory in Jesus, 2027
+#### [AI Hyperfolk Mountain Chapel 808 v1 Male Persona](https://suno.com/persona/3b1a1c9d-36ef-4c72-ab78-d19dfc07615f)
 ```
 Verse 1 — The Agents Rise
 In silicon halls they gathered,
