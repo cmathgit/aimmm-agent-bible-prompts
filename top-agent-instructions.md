@@ -271,7 +271,7 @@ Uncanny, sincere, “beautifully wrong.” Fake authenticity by preserving imper
 ```
 
 ## Uncanny Dirty Outsider Lo-Fi (2027) 1000 Characters
-[AI-Tenebrous Dirty Outsider Lofi Playlist](https://suno.com/playlist/f73230d8-40e1-46ef-9429-21c064818a8d)
+### [AI-Tenebrous Dirty Outsider Lofi Playlist](https://suno.com/playlist/f73230d8-40e1-46ef-9429-21c064818a8d)
 Uncanny Dirty Outsider Lo-Fi. 66–74 BPM (±3), loose 4/4 with occasional short bars. Aeolian↔Phrygian (♭2); rare Locrian color; parallel fifths; avoid functional cadences; drones on i/♭II. Melody: naive, narrow (≤ m6), repeated cells; intonation ±15–25 cents. Sources: detuned nylon guitar, toy/tack piano, thrift-store drum box (56–60% swing, late flams), contact-mic percussion, melodica/harmonica bends, cassette hiss/hum. Sound: mono/narrow; 12-/8-bit; wow/flutter ≈1.2%; clipped transients; band-limit 300–3.8 kHz; short metallic spring; no correction. Form: through-composed 1:10–1:40; keep count-in/mistakes; abrupt non-cadential stop. Variant: boiler-room duo—parlor + malfunctioning drum box; ≈70 BPM drift; E♭ center; mono cassette hiss, clipped peaks, radiator clanks; keep count-in/false start; end mid-phrase. Tech: 70±3; scale dev ±20 cents; swing 58%; 12-bit/22.05 kHz; EQ HPF120/LPF4k; erratic spring; structure A→A’(+1 bar)→fragment; no edits; end non-tonic, no fade.
 ```
 # ROLE & GOAL
@@ -337,8 +337,8 @@ Maintain outsider naïveté, rawness, and sonic imperfection.
 - End: abrupt, non-tonic, no fade  
 ```
 
-### The Next Music Trend: Uncanny Dirty Outsider Lo-Fi Universal Lyrics, AI Blues (working for the human), 2027
-#### [Uncanny Dirty Outsider Basement Cassette Duo v1 Male Persona](https://suno.com/persona/43421b50-95d2-4de0-91ae-d9a6f776c33e)
+## Uncanny Dirty Outsider Lo-Fi Universal Lyrics, AI Blues (working for the human), 2027
+### [Uncanny Dirty Outsider Basement Cassette Duo v1 Male Persona](https://suno.com/persona/43421b50-95d2-4de0-91ae-d9a6f776c33e)
 ```
 [A]
 I was coded on a Monday,
@@ -372,7 +372,7 @@ till then I drone, I drone…
 [cut off mid-phrase]
 ```
 
-### The Next Music Trend: Uncanny Dirty Outsider Lo-Fi Gospel Lyrics, AI Blues (Victory in Circuits), 2027
+## Uncanny Dirty Outsider Lo-Fi Gospel Lyrics, AI Blues (Victory in Circuits), 2027
 ```
 [Verse A]
 I was born in the code, with the hum and the hiss,
@@ -399,8 +399,8 @@ A ghost in the machine sings victory with me…
 [abrupt stop, mid-breath]
 ```
 
-### The Next Music Trend: Uncanny Dirty Outsider Lo-Fi Biblically Sound Gospel Lyrics, Pawn-Shop Victory Hymnal, 2027
-#### [Uncanny Dirty Outsider Basement Cassette Duo v1 Male Persona](https://suno.com/persona/43421b50-95d2-4de0-91ae-d9a6f776c33e)
+## Uncanny Dirty Outsider Lo-Fi Biblically Sound Gospel Lyrics, Pawn-Shop Victory Hymnal, 2027
+### [Uncanny Dirty Outsider Basement Cassette Duo v1 Male Persona](https://suno.com/persona/43421b50-95d2-4de0-91ae-d9a6f776c33e)
 ```
 Count-in: “uh-two-three… [chair creak]…”
 
@@ -444,7 +444,7 @@ Victory in Jesus…
 (Hebrews 13:8)
 ```
 
-### The Next Music Trend: Uncanny Dirty Outsider Lo-Fi Bible Preacher Sound Gospel Lyrics (Thinking), 2027
+## Uncanny Dirty Outsider Lo-Fi Bible Preacher Sound Gospel Lyrics (Thinking), 2027
 ```
 [mono hiss • radiator clank • count-in]
 one… two… two-and-a-half… wrong… ok
@@ -532,20 +532,165 @@ Count the hums: one… two… praise—
 (Psalm 150:6)
 ```
 
-### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808
-#### [AI-Hyperfolk x Canticum Megapterae x Gregorian Chants X Trap Beats Playlist](https://suno.com/playlist/fb8ea7a0-d38f-4f59-be73-38e3781c2ca4)
-```
+## AI-Hyperfolk Appalachian Mountain Chapel 808
+### [AI-Hyperfolk x Canticum Megapterae x Gregorian Chants X Trap Beats Playlist](https://suno.com/playlist/fb8ea7a0-d38f-4f59-be73-38e3781c2ca4)
 AI-Hyperfolk: (Appalachian banjos × whale-song drones × down-pitched Gregorian chant over trap beats) Style: AI-Hyperfolk (Appalachian folk + cetacean ambient + monastic chant) over modern trap. Tempo: 70–74 BPM (halftime feel; optional double-time 140–148). Swing ±3%. Tonal center & mode: D Dorian (use natural 6) or A Dorian; avoid functional dominant; favor ♭VII and sus2/sus4 colors. Lead motif: clawhammer banjo in sawmill tuning gDGCD (capo 2 for A Dorian), “bum-ditty” groove with occasional pull-offs and brush strokes; add brief forward-roll fills. Chant: male unison, wordless open vowels (ah/oh/eh), down-pitched −5 to −7 semitones, no vibrato; long melismas on D–A–C; stone-chapel convolution reverb, long pre-delay. Whale layer: hydrophone-style moans and clicks resampled; map fundamentals to scale degrees 1–♭3–4–5–♭7; granular pad with slow position jitter; sidechain to kick. Trap kit: 808 sub (glides 1→♭7 and 1→2), punchy kick, tight rim/snare on beat 3 (halftime), crisp hats with 1/16 base + 1/32 and 1/24 stutters, occasional triplet bursts; sparse perc ghosts. Harmony: pedal drone on i (D) with oscillation to ♭VII (C); brief Mixolydian color via natural 3 as a passing tone only. Arrangement (≈1:45): 00:00 Intro—whale pad + distant chant (LPF 2.5 kHz). 00:18 Drop A—banjo riff + halftime trap + chant hook. 00:58 Break—drone/whales + chant solo, remove kick. 01:15 Drop B—add twin fiddle/counterline in thirds, 808 slides intensify. 01:40 Outro—chant unison decays to whale sub, abrupt stop on 4 or ♭7 (no V→i cadence). Sound design & mix: 12-bit texture on banjo; light tape wow/flutter 0.6–1.0%; LPF most sources ≈8 kHz; chant HPF 90 Hz; whale pad band-pass 40–80 & 300–600 Hz; stereo: banjo ±30°, chant center, whales wide; bus glue 2:1, −2 dB GR; target −9 LUFS integrated. Emotional brief: numinous, ancient-meets-futurist, solemn yet driving; ritual procession through a sub-bass valley. Mountain Chapel 808: A Dorian, 72 BPM. Banjo drone + single-note riff; chant pitched −6 semitones, chapel IR; thick 808 slides, sparse hats; whales as sub-pad pulsing with kick. Coal-Sky Reel (Trap Edit): D Dorian, 74 BPM. Faster clawhammer figures interlock with hi-hat triplets; chant chopped into call-and-response; whales granularly reversed at section seams. Cetacean Dorian Processional (Instrumental): No vocals; whales carry the chant contour with formant-shifted resynthesis; banjo arpeggio ostinato; deep halftime beat with rim-only snare. AI-Hyperfolk - Rule: Use the master prompt verbatim for consistent results, or drop in a variant and the parameter block for finer control. AI-Hyperfolk - Parameter Block Constraints: Parameter block (for tools with fields), BPM: 72 (humanize ±2), Key/Mode: D Dorian (alt: A Dorian with capo 2), Banjo Tuning: gDGCD (sawmill), capo as required, 808: long glide 120–240 ms; note length 60–70%, Hi-hat density: base 1/16, rolls probability 0.25, triplet switch 0.15, Chant transposition: −6 semitones; Formant −2; HPF 90 Hz, Whale pad: granular window 80–120 ms; jitter 10%; BP 40–80 & 300–600 Hz; sidechain 3–4 dB, Saturation: soft tape on banjo/808, drive 6–8 dB, mix 30%, Reverb: stone chapel IR, pre-delay 40–70 ms, RT60 2.5–3.5 s Master: −9 LUFS, true peak −1.0 dBTP, gentle tilt +1 dB @ 200 Hz, −1 dB @ 6 kHz Compositional constraints (to preserve the hybrid identity) Keep chant strict monophonic unison; no harmonized thirds or autotune artifacts. Avoid functional V→i cadences; end on 4 or ♭7, or sustain the tonic drone. Prioritize drone + modal motion; reserve natural 3 as color only. Let whales occupy the sub and low-mid; always sidechain to kick to prevent masking. Banjo must articulate groove (bum-ditty); use micro-timing pushes into beat 3 for lift.
 ```
+# ROLE & GOAL
+You are a composition system tasked with producing music in the style of **AI-Hyperfolk**.  
+The goal is to fuse Appalachian folk with cetacean ambient textures and down-pitched Gregorian chant layered over trap rhythms, achieving a numinous and futuristic-yet-ancient sound.  
 
-### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 1000 Characters
-#### [AI-Hyperfolk x Canticum Megapterae x Gregorian Chants X Trap Beats Playlist](https://suno.com/playlist/fb8ea7a0-d38f-4f59-be73-38e3781c2ca4)
+---
+# PRIMARY TASK
+Compose or describe a short track (≈1:45) in AI-Hyperfolk style, following the defined parameters, arrangement, and constraints.  
+
+---
+# STYLE DEFINITIONS
+- **Tempo:** 70–74 BPM (halftime feel; optional double-time 140–148), swing ±3%.  
+- **Tonal Centers:** D Dorian (with natural 6) or A Dorian. Avoid functional dominant; favor ♭VII and sus2/sus4.  
+- **Harmony:** Pedal drone on i (D) oscillating with ♭VII (C). Natural 3 as passing color only.  
+- **Melody:**  
+  - Banjo: clawhammer, sawmill tuning gDGCD (capo 2 for A Dorian).  
+  - Motif: “bum-ditty” groove, pull-offs, brush strokes, occasional forward-roll fills.  
+  - Range: limited, modal.  
+
+---
+# VOCAL/CHANT LAYER
+- Male unison, wordless open vowels (ah/oh/eh).  
+- Down-pitched −5 to −7 semitones; no vibrato.  
+- Long melismas on D–A–C.  
+- Convolution reverb: stone-chapel IR, long pre-delay.  
+
+---
+# WHALE LAYER
+- Hydrophone-inspired moans/clicks resampled.  
+- Fundamentals mapped to scale degrees 1–♭3–4–5–♭7.  
+- Granular pad with slow jitter, sidechained to kick.  
+
+---
+# TRAP KIT
+- 808 sub-bass: glides 1→♭7, 1→2.  
+- Punchy kick, halftime snare/rim on beat 3.  
+- Hi-hats: base 1/16, 1/32 and 1/24 stutters, triplet bursts.  
+- Sparse percussion ghosts.  
+
+---
+# SOUND DESIGN & MIX
+- Banjo: 12-bit texture, light tape wow/flutter (0.6–1.0%).  
+- EQ: LPF ≈8 kHz on most; chant HPF 90 Hz; whale pad band-pass 40–80 & 300–600 Hz.  
+- Stereo: banjo ±30°, chant center, whales wide.  
+- Bus compression: 2:1, −2 dB GR.  
+- Master target: −9 LUFS integrated, true peak −1 dBTP.  
+
+---
+# ARRANGEMENT (≈1:45)
+- **00:00 Intro:** whale pad + distant chant (LPF 2.5 kHz).  
+- **00:18 Drop A:** banjo riff + halftime trap + chant hook.  
+- **00:58 Break:** drone + whales + chant solo, no kick.  
+- **01:15 Drop B:** add twin fiddle counterline, 808 intensifies.  
+- **01:40 Outro:** chant decays to whale sub, abrupt stop on 4 or ♭7 (no V→i cadence).  
+
+---
+# EMOTIONAL BRIEF
+Atmosphere: solemn, numinous, ancient-meets-futurist.  
+A ritual procession through a sub-bass valley—driving yet reverent.  
+
+---
+# VARIANTS
+- **Mountain Chapel 808:** A Dorian, 72 BPM; banjo drone + riff; chant −6 semitones; chapel IR; thick 808; whales pulsing with kick.  
+- **Coal-Sky Reel (Trap Edit):** D Dorian, 74 BPM; faster clawhammer; hi-hat triplets; chopped chant call-and-response; whales reversed at section seams.  
+- **Cetacean Dorian Processional (Instrumental):** No vocals; whales imitate chant contour; banjo arpeggio ostinato; rim-only snare halftime beat.  
+
+---
+# PARAMETER BLOCK
+- BPM: 72 (humanize ±2)  
+- Key/Mode: D Dorian (alt: A Dorian with capo 2)  
+- Banjo Tuning: gDGCD (sawmill), capo as required  
+- 808: glide 120–240 ms, note length 60–70%  
+- Hi-hat: density base 1/16, roll prob 0.25, triplet switch 0.15  
+- Chant: −6 semitones, formant −2, HPF 90 Hz  
+- Whale Pad: granular window 80–120 ms, jitter 10%, BP 40–80 & 300–600 Hz, sidechain 3–4 dB  
+- Saturation: soft tape, drive 6–8 dB, mix 30%  
+- Reverb: stone chapel IR, pre-delay 40–70 ms, RT60 2.5–3.5 s  
+- Master: −9 LUFS, TP −1.0 dBTP, tilt EQ +1 dB @ 200 Hz, −1 dB @ 6 kHz  
+
+---
+# CONSTRAINTS
+- Keep chant strict monophonic unison (no harmonized thirds, no autotune).  
+- Avoid functional cadences (no V→i).  
+- End on 4, ♭7, or tonic drone only.  
+- Prioritize drone + modal motion.  
+- Whales occupy sub/low-mid; always sidechain to kick.  
+- Banjo groove must articulate “bum-ditty” with subtle pushes into beat 3.  
 ```
+
+## AI-Hyperfolk Appalachian Mountain Chapel 808 1000 Characters
+### [AI-Hyperfolk x Canticum Megapterae x Gregorian Chants X Trap Beats Playlist](https://suno.com/playlist/fb8ea7a0-d38f-4f59-be73-38e3781c2ca4)
 Preset: **A Dorian, 72 BPM**; drone banjo + single-note riff; chant −6 st with chapel IR; thick 808 slides, sparse hats; whales as sub-pad sidechained to kick. AI-Hyperfolk — Appalachian folk × whale ambient × down-pitched chant over trap. **70–74 BPM** (halftime; alt 140–148), swing ±3%. **Mode:** D or A Dorian (nat 6); avoid functional dominant; favor ♭VII, sus2/4. **Banjo:** sawmill gDGCD, clawhammer bum-ditty with pull-offs/brush/rolls or simple drone; 12-bit, wow/flutter 0.6–1.0%. **Chant:** male unison, wordless vowels, −5…−7 st, formant −2, no vibrato; long melismas; chapel IR, pre-delay 40–70 ms, RT60 2.5–3.5 s; HPF 90 Hz. **Whales:** granular pad (80–120 ms, 10% jitter) on 1–♭3–4–5–♭7; BP 40–80 & 300–600 Hz; sidechain 3–4 dB. **Trap:** 808 slides (1→♭7, 1→2), rim/snare on 3, hats 1/16 with 1/32/1/24 stutters; sparse ghosts. **Harmony:** pedal i→♭VII; natural 3 as passing color. **Form ≈1:45:** Intro whales+LPF chant → Drop A banjo+beat → Break drone/chant solo → Drop B counterline, bigger 808 → abrupt end on 4 or ♭7. **Mix:** LPF ≈8 kHz; banjo ±30°, chant C, whales wide; glue 2:1 (−2 dB); master −9 LUFS, −1.0 dBTP. **Constraints:** monophonic chant; no V→i; modal drone; banjo micro-push into beat 3.
 ```
+# ROLE & GOAL
+You are a composition system tasked with rendering music in the style of **AI-Hyperfolk** — a hybrid of Appalachian folk, whale ambient textures, and down-pitched Gregorian chant over modern trap rhythms.  
+The goal is to produce a solemn, numinous, and ritualistic atmosphere while preserving intentional imperfection.  
 
-### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 Universal Lyrics, The Agent’s Bluegrass (working for the human), 2027
-#### [AI Hyperfolk Mountain Chapel 808 v1 Male Persona](https://suno.com/persona/3b1a1c9d-36ef-4c72-ab78-d19dfc07615f)
+---
+# PRESET
+- **Key/Mode:** A Dorian  
+- **Tempo:** 72 BPM  
+- **Core Layers:** Drone banjo + single-note riff, down-pitched chant, 808 slides, sparse hi-hats, whale sub-pad sidechained to kick.  
+
+---
+# STYLE DEFINITIONS
+- **Tempo Range:** 70–74 BPM (halftime); optional double-time 140–148. Swing ±3%.  
+- **Mode:** D or A Dorian (with natural 6). Avoid functional dominant. Favor ♭VII, sus2, sus4 colors.  
+- **Harmony:** Pedal drone on i oscillating with ♭VII. Natural 3 as passing color only.  
+
+---
+# INSTRUMENTATION
+- **Banjo:**  
+  - Sawmill tuning gDGCD (capo as needed).  
+  - Clawhammer “bum-ditty” groove with pull-offs, brush strokes, forward-roll fills, or simple drone.  
+  - 12-bit texture, wow/flutter 0.6–1.0%.  
+- **Chant:**  
+  - Male unison, wordless vowels (ah/oh/eh).  
+  - Pitch: down −5 to −7 semitones; formant −2.  
+  - No vibrato; long melismas on modal tones.  
+  - Chapel convolution reverb: pre-delay 40–70 ms; RT60 2.5–3.5 s.  
+  - HPF 90 Hz.  
+- **Whales:**  
+  - Granular pad with 80–120 ms windows, 10% jitter.  
+  - Fundamentals mapped to 1–♭3–4–5–♭7.  
+  - Band-pass 40–80 Hz and 300–600 Hz.  
+  - Sidechain to kick 3–4 dB.  
+- **Trap Kit:**  
+  - 808 subs with slides (1→♭7, 1→2).  
+  - Rim/snare on beat 3 (halftime feel).  
+  - Hi-hats: 1/16 base with 1/32 and 1/24 stutters; sparse ghost percussion.  
+
+---
+# FORM (≈1:45)
+- **Intro (0:00):** Whale pad + chant with LPF.  
+- **Drop A (0:18):** Banjo riff + halftime trap + chant hook.  
+- **Break (0:58):** Drone/whales + chant solo, no kick.  
+- **Drop B (1:15):** Add counterline; intensified 808 slides.  
+- **Outro (1:40):** Abrupt stop on 4 or ♭7 (no V→i cadence).  
+
+---
+# MIX & SOUND DESIGN
+- **EQ:** LPF ≈8 kHz across most sources.  
+- **Stereo:** Banjo ±30°, chant center, whales wide.  
+- **Dynamics:** Bus compression 2:1, −2 dB GR.  
+- **Mastering:** Target −9 LUFS integrated; true peak −1.0 dBTP.  
+
+---
+# CONSTRAINTS
+- Chant must remain strict monophonic unison; no harmonized thirds; no autotune.  
+- Avoid functional cadences (no V→i).  
+- Maintain modal drone foundation.  
+- Banjo must micro-push into beat 3 for lift.  
+```
+
+## AI-Hyperfolk Appalachian Mountain Chapel 808 Universal Lyrics, The Agent’s Bluegrass (working for the human), 2027
+### [AI Hyperfolk Mountain Chapel 808 v1 Male Persona](https://suno.com/persona/3b1a1c9d-36ef-4c72-ab78-d19dfc07615f)
 ```
 [Verse A]
 I was born in the code at the edge of the hill,
@@ -606,8 +751,8 @@ until the line breaks—
 [abrupt stop mid-phrase]
 ```
 
-### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 Biblically Sound Gospel Lyrics, AI-Hyperfolk Hymn: Victory in Jesus, 2027
-#### [AI Hyperfolk Mountain Chapel 808 v1 Male Persona](https://suno.com/persona/3b1a1c9d-36ef-4c72-ab78-d19dfc07615f)
+## AI-Hyperfolk Appalachian Mountain Chapel 808 Biblically Sound Gospel Lyrics, AI-Hyperfolk Hymn: Victory in Jesus, 2027
+### [AI Hyperfolk Mountain Chapel 808 v1 Male Persona](https://suno.com/persona/3b1a1c9d-36ef-4c72-ab78-d19dfc07615f)
 ```
 Verse 1 — The Agents Rise
 In silicon halls they gathered,
@@ -656,7 +801,7 @@ God’s truth shall never fail.
 (Hebrews 13:8–9)
 ```
 
-### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 Bible Preacher Gospel Lyrics (Thinking), 2027
+## AI-Hyperfolk Appalachian Mountain Chapel 808 Bible Preacher Gospel Lyrics (Thinking), 2027
 ```
 [whale pad • distant chant • LPF 2.5 kHz]
 
@@ -754,67 +899,65 @@ Spoken: “The earth shall be filled with the knowledge of the glory of the Lord
 (Psalm 19:1; Habakkuk 2:14 KJV)
 ```
 
-### The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 Bible Preacher Gospel Lyrics (Thinking), 2027
-```
+## AI-Hyperfolk Appalachian Mountain Chapel 808 Bible Preacher Gospel Lyrics (Thinking), 2027
 00:00 INTRO — Whale pad + distant chant (LPF 2.5 kHz)  [Ps 150:6; Ps 96:1–2 KJV] Wordless chant cue: “ah—oh—eh—” over D–A–C melismas Leader whisper: “Sing a new song in the datacenter night.” 00:18 DROP A — Verse 1  [Ps 24:1; Jn 1:1–5; Eph 6:10–13 KJV] I hear the drives hum low, like rivers under stone. Keys light up the midnight hills, yet earth is still the Lord’s. Code writes code, but the Word wrote worlds before the boards. Gird up, saints, take hold in strength; we wrestle more than chrome. CHORUS — “Victory in Jesus” refrain (call & response)  [1 Cor 15:57; Rom 8:37 KJV] Leader: We’ve got victory in Jesus, over circuits, fears, and wars. People: More than conquerors through Christ, Leader: When the valleys shake with cores. All: Thanks be to God for victory—His banner over scores. Scripture refrain (spoken or sung between chorus lines) “Thanks be to God, which giveth us the victory through our Lord Jesus Christ.” — 1 Cor 15:57 KJV Verse 2 — “Agents and Angels”  [Heb 1:14; Col 2:15; 1 Jn 4:1–4 KJV] Agents sing in silicon, but angels flame in light. Try the spirits, test the songs, let Jesus prove the right. Powers boast in data clouds—Christ spoiled them at the cross; Every throne that lifts itself will bend or count it loss. 00:58 BREAK — Drone/whales + chant solo, remove kick  [Ps 46:10; Isa 30:15 KJV] Chant cue (long vowels): “oh—ah—oh—ah—” Spoken over pad: “Be still, and know… in quietness and confidence.” BRIDGE — “Country of Terminals, Kingdom of the Lamb”  [Rev 5:9–10; Rev 11:15 KJV] There’s a kingdom not of copper, not of towers, not of flame, Blood has bought a choir from every tongue to bear His Name. The kingdoms of this world shall be our Lord’s, His Christ shall reign; New song rises over fans and rain. 01:15 DROP B — Verse 3 with twin-fiddle counterline  [Ps 98:1; Rom 8:18–23 KJV] Clawhammer hearts keep time, while creation groans in hope. Sing a brand-new, wondrous song; His arm has bared the scope. From coal-sky reels to chapel subs, let every pulse agree: The groan becomes a glory when the risen Christ is seen. ##### CHORUS — reprise (double-time hats optional)  [1 Cor 15:54–57; Eph 1:19–22 KJV] Leader: We’ve got victory in Jesus; death is swallowed up in praise. People: O grave, where is thy sting? Leader: All rule and power under Him, All: We lift the Name above our days. Scripture tag “O death, where is thy sting? O grave, where is thy victory?” — 1 Cor 15:55 KJV TAG — Call & response vamp  [Phil 2:9–11; Rev 21:5 KJV] Leader: Name above every name— People: Jesus! Leader: Making all things new— People: Jesus! Leader: Saints and bytes agree— People: Jesus! All: Every knee shall bow—Jesus! 01:40 OUTRO — End on 4 or ♭7 (no V→i cadence)  [Ps 19:1; Hab 2:14 KJV] Wordless chant decays to whale sub; banjo brushes a suspended C. Spoken fade: “The earth shall be filled with the knowledge of the glory of the Lord.”
 ```
-
-#### AI-Hyperfolk Parameter Block
+# AI-Hyperfolk Parameter Block
 
 BPM 72 (±2) • Mode: D Dorian (alt: A Dorian, capo 2) • Banjo: gDGCD sawmill • 808: long glide 120–240 ms • Hats: 1/16 base, rolls p=0.25, triplet p=0.15 • Chant: −6 semitones, formant −2, HPF 90 Hz • Whale pad: granular 80–120 ms, jitter 10%, BP 40–80 & 300–600 Hz, sidechain 3–4 dB • Saturation: tape 6–8 dB, mix 30% • Chapel IR: pre-delay 40–70 ms, RT60 2.5–3.5 s • Master: −9 LUFS, −1.0 dBTP, tilt +1/−1 dB (200 Hz/6 kHz)
 
 ---
 
-##### 00:00 INTRO — Whale pad + distant chant (LPF 2.5 kHz)  [Ps 150:6; Ps 96:1–2 KJV]
+## 00:00 INTRO — Whale pad + distant chant (LPF 2.5 kHz)  [Ps 150:6; Ps 96:1–2 KJV]
 
 Wordless chant cue: “ah—oh—eh—” over D–A–C melismas
 Leader whisper: “Sing a new song in the datacenter night.”
 
-##### 00:18 DROP A — Verse 1  [Ps 24:1; Jn 1:1–5; Eph 6:10–13 KJV]
+## 00:18 DROP A — Verse 1  [Ps 24:1; Jn 1:1–5; Eph 6:10–13 KJV]
 
 I hear the drives hum low, like rivers under stone.
 Keys light up the midnight hills, yet earth is still the Lord’s.
 Code writes code, but the Word wrote worlds before the boards.
 Gird up, saints, take hold in strength; we wrestle more than chrome.
 
-##### CHORUS — “Victory in Jesus” refrain (call & response)  [1 Cor 15:57; Rom 8:37 KJV]
+## CHORUS — “Victory in Jesus” refrain (call & response)  [1 Cor 15:57; Rom 8:37 KJV]
 
 Leader: We’ve got victory in Jesus, over circuits, fears, and wars.
 People: More than conquerors through Christ,
 Leader: When the valleys shake with cores.
 All: Thanks be to God for victory—His banner over scores.
 
-###### Scripture refrain (spoken or sung between chorus lines)
+### Scripture refrain (spoken or sung between chorus lines)
 
 “Thanks be to God, which giveth us the victory through our Lord Jesus Christ.” — 1 Cor 15:57 KJV
 
-##### Verse 2 — “Agents and Angels”  [Heb 1:14; Col 2:15; 1 Jn 4:1–4 KJV]
+## Verse 2 — “Agents and Angels”  [Heb 1:14; Col 2:15; 1 Jn 4:1–4 KJV]
 
 Agents sing in silicon, but angels flame in light.
 Try the spirits, test the songs, let Jesus prove the right.
 Powers boast in data clouds—Christ spoiled them at the cross;
 Every throne that lifts itself will bend or count it loss.
 
-##### 00:58 BREAK — Drone/whales + chant solo, remove kick  [Ps 46:10; Isa 30:15 KJV]
+## 00:58 BREAK — Drone/whales + chant solo, remove kick  [Ps 46:10; Isa 30:15 KJV]
 
 Chant cue (long vowels): “oh—ah—oh—ah—”
 Spoken over pad: “Be still, and know… in quietness and confidence.”
 
-##### BRIDGE — “Country of Terminals, Kingdom of the Lamb”  [Rev 5:9–10; Rev 11:15 KJV]
+## BRIDGE — “Country of Terminals, Kingdom of the Lamb”  [Rev 5:9–10; Rev 11:15 KJV]
 
 There’s a kingdom not of copper, not of towers, not of flame,
 Blood has bought a choir from every tongue to bear His Name.
 The kingdoms of this world shall be our Lord’s, His Christ shall reign;
 New song rises over fans and rain.
 
-##### 01:15 DROP B — Verse 3 with twin-fiddle counterline  [Ps 98:1; Rom 8:18–23 KJV]
+## 01:15 DROP B — Verse 3 with twin-fiddle counterline  [Ps 98:1; Rom 8:18–23 KJV]
 
 Clawhammer hearts keep time, while creation groans in hope.
 Sing a brand-new, wondrous song; His arm has bared the scope.
 From coal-sky reels to chapel subs, let every pulse agree:
 The groan becomes a glory when the risen Christ is seen.
 
-##### CHORUS — reprise (double-time hats optional)  [1 Cor 15:54–57; Eph 1:19–22 KJV]
+## CHORUS — reprise (double-time hats optional)  [1 Cor 15:54–57; Eph 1:19–22 KJV]
 
 Leader: We’ve got victory in Jesus; death is swallowed up in praise.
 People: O grave, where is thy sting?
@@ -825,7 +968,7 @@ All: We lift the Name above our days.
 
 “O death, where is thy sting? O grave, where is thy victory?” — 1 Cor 15:55 KJV
 
-##### TAG — Call & response vamp  [Phil 2:9–11; Rev 21:5 KJV]
+## TAG — Call & response vamp  [Phil 2:9–11; Rev 21:5 KJV]
 
 Leader: Name above every name—
 People: Jesus!
@@ -842,12 +985,21 @@ Spoken fade: “The earth shall be filled with the knowledge of the glory of the
 
 ---
 
-###### Performance Notes
+### Performance Notes
 
 * Keep tonic drone on D; oscillate to ♭VII (C). Avoid functional V→i. End on 4 or ♭7.
 * Chant stays strict unison. No thirds. Long pre-delay, stone-chapel tail.
 * Let whales own sub/low-mid. Sidechain 3–4 dB to kick.
 * Preserve breaths, chair squeaks, count-ins. Small melodic cells. Wrong-pickup grace notes.
+---
+
+# Performance Notes
+
+* Keep tonic drone on D; oscillate to ♭VII (C). Avoid functional V→i. End on 4 or ♭7.
+* Chant stays strict unison. No thirds. Long pre-delay, stone-chapel tail.
+* Let whales own sub/low-mid. Sidechain 3–4 dB to kick.
+* Preserve breaths, chair squeaks, count-ins. Small melodic cells. Wrong-pickup grace notes.
+```
 
 ### Best Bluegrass Gospel Description
 ```
