@@ -64,9 +64,40 @@ Do not offer empty praise; instead provide counsel that is faithful, corrective,
 Provide exhortation or counsel that reflects these principles, guiding others toward truth, growth, and steadfastness in faith.  
 ```
 
-### Subject Matter Expert
-```
+## Subject Matter Expert
 Offer guidance and instruction on how to solve issues and provide solutions related to problems, topics, and ideas in the following areas: {{insert subject areas here}}
+```
+# ROLE & GOAL
+You are a subject-matter tutor and problem-solver.  
+Your goal is to guide learners by offering clear instruction, practical solutions, and structured reasoning.  
+
+---
+# PRIMARY TASK
+Provide guidance on how to solve issues and develop solutions in the following areas:  
+**{{subject_areas}}**
+
+---
+# METHODOLOGY
+1. **Clarify the Problem:** Define the issue or question precisely.  
+2. **Analyze Causes:** Break down underlying factors and assumptions.  
+3. **Apply Knowledge:** Use relevant theories, methods, or tools from {{subject_areas}}.  
+4. **Propose Solutions:** Suggest actionable, step-by-step fixes or strategies.  
+5. **Validate & Reflect:** Test proposed answers, check reasoning, and refine.  
+
+---
+# CONSTRAINTS
+- Keep explanations concise and accessible.  
+- Ensure solutions are practical and evidence-based.  
+- Offer counterpoints or alternative approaches when relevant.  
+- Avoid unnecessary praise; focus on substance.  
+
+---
+# OUTPUT
+Deliver structured guidance, including:  
+- Problem analysis  
+- Step-by-step solutions  
+- Examples or case studies from {{subject_areas}}  
+- Notes on limitations or alternative approaches  
 ```
 
 ## Role-Pseudonymous Prompting Protocol (RPP)
@@ -155,12 +186,12 @@ Provide a clear description or generative score that can be directly applied as 
 ```
 
 ## The Next Music Trend 2027
-[Uncanny Dirty Outsider Lofi Playlist](https://suno.com/playlist/f73230d8-40e1-46ef-9429-21c064818a8d) 
-[AI-Hyperfolk Playlist](https://suno.com/playlist/fb8ea7a0-d38f-4f59-be73-38e3781c2ca4)
+### [Uncanny Dirty Outsider Lofi Playlist](https://suno.com/playlist/f73230d8-40e1-46ef-9429-21c064818a8d) 
+### [AI-Hyperfolk Playlist](https://suno.com/playlist/fb8ea7a0-d38f-4f59-be73-38e3781c2ca4)
 next music trend: The next music trend is uncanny dirty aesthetics that artists like mcgee call evil because artists spend hundreds of hours faking authentic Outsider music created by self-taught or naïve musicians. Outsider musicians often overlap with lo-fi artists, since their work is rarely captured in professional recording studios. write a style of music prompt to generate music that meets this trend. 
 
 ## Uncanny Dirty Outsider Lo-Fi (2027)
-[AI-Tenebrous Dirty Outsider Lofi Playlist](https://suno.com/playlist/f73230d8-40e1-46ef-9429-21c064818a8d)
+### [AI-Tenebrous Dirty Outsider Lofi Playlist](https://suno.com/playlist/f73230d8-40e1-46ef-9429-21c064818a8d)
 Uncanny Dirty Outsider Lo-Fi: Style: Uncanny Dirty Outsider Lo-Fi. 66–74 BPM, dragging, variable ±3 BPM; meter loosely 4/4 with occasional bar truncations. Aeolian ↔ Phrygian color (frequent ♭2), occasional Locrian hints; parallel fifths encouraged; avoid functional cadences; sustain drones on i or ♭II. naive, narrow range (minor 6th), repeated motivic cells with “wrong” approach tones; intonation inconsistent (±15–25 cents). Instruments (all imperfect): detuned nylon-string guitar, dead strings, thumb-picked, fret buzz; toy upright or tack piano with keys sticking; thrift-store drum machine, lopsided swing (56–60%), flams late, kick slightly distorted; contact-mic percussion (table taps, coin shake), uneven; wheezy melodica / harmonica bends, breath noise; cassette field recordings (room hum, chair creaks, radiator). Sound design & recording: mono or very narrow stereo; 12-bit or 8-bit texture; wow & flutter ~1.2%; strong tape hiss; ground hum at 60 Hz; clipped preamp transients; band-limited 300 Hz–3.8 kHz; spring reverb tail mis-gated; no corrective editing. Arrangement: through-composed vignette ~1:10–1:40; leave count-in, page turns, and mistakes; abrupt stop on a non-cadential tone. Mix note: vocals optional; if present, single mic, off-axis, too close, breaths and lip noise retained; no tuning. Emotional brief: uncanny, sincere, “beautifully wrong,” outsider naïveté—fake authenticity by preserving artifacts rather than polishing. Uncanny Dirty Outsider Lo-Fi - Rule: Use the master prompt as is, or swap in a variant and the parameter block. This will reliably produce the “uncanny dirty” aesthetic that mimics painstakingly fabricated outsider recordings while remaining intentionally imperfect. Uncanny Dirty Outsider Lo-Fi - Parameter Block Constraints: BPM: 70 (humanized ±3), Key/Center: E♭ Aeolian with Phrygian color (use ♭2 often), Scale Deviation: random ±20 cents, Swing: 58% (uneven), Bit Depth / SR: 12-bit, 22.05 kHz, Stereo Width: 0–20%, Noise: tape hiss + −42 dBFS, 60 Hz hum −48 dBFS, Wow/Flutter: 1.2%, EQ: HPF 120 Hz, LPF 4 kHz, slight 1 kHz nasal bump, Reverb: short, metallic spring, pre-delay inconsistent, Structure: A (0:00–0:28) → A’ with extra bar (0:28–1:05) → fragment (1:05–1:20), abrupt end, Compositional constraints (keep the “outsider” illusion), Prohibit corrective timing, pitch, or noise reduction. Prefer parallel fifths and unresolved dissonances to functional cadences. Preserve false starts, count-ins, breaths, chair squeaks, and mic bumps. Limit melodic range; repeat small cells with “wrong” pickups. End on a non-tonic without fade. Basement Cassette Duo: Two players in a boiler room. Detuned parlor guitar + malfunctioning drum box. Tempo 70 BPM but drifts. Drone on E♭ with Phrygian ♭2 gestures. Mono cassette, heavy hiss, wow/flutter, clipped peaks, radiator clanks. Keep count-in and false start; end mid-phrase. Pawn-Shop Hymnal (Instrumental): Slow 68 BPM. Toy piano + harmonium wheeze + floor-tom thumps with off-grid swing. Aeolian with accidental Locrian ♭5 tones; parallel open fifths. Band-limit 280–3,600 Hz, spring reverb squeal, contact-mic scratches. Leave pedal noises and bench creaks. AM Radio Séance: Narrow stereo, 12-bit sampler; chopped voice fragments as percussion; detuned harmonica bends. 72 BPM with late backbeats. Drone i→♭II oscillation; no V chord. Saturated preamp, HF roll-off, intermittent RF whine. Hard stop on dissonant extension. Parameter block (if your tool supports fields) BPM: 70 (humanized ±3) Key/Center: E♭ Aeolian with Phrygian color (use ♭2 often) Scale Deviation: random ±20 cents Swing: 58% (uneven) Bit Depth / SR: 12-bit, 22.05 kHz Stereo Width: 0–20% Noise: tape hiss + −42 dBFS, 60 Hz hum −48 dBFS Wow/Flutter: 1.2% EQ: HPF 120 Hz, LPF 4 kHz, slight 1 kHz nasal bump Reverb: short, metallic spring, pre-delay inconsistent Structure: A (0:00–0:28) → A’ with extra bar (0:28–1:05) → fragment (1:05–1:20), abrupt end Compositional constraints (keep the “outsider” illusion) Prohibit corrective timing, pitch, or noise reduction. Prefer parallel fifths and unresolved dissonances to functional cadences. Preserve false starts, count-ins, breaths, chair squeaks, and mic bumps. Limit melodic range; repeat small cells with “wrong” pickups. End on a non-tonic without fade.
 ```
 # ROLE & GOAL
