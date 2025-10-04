@@ -192,10 +192,12 @@ next music trend: The next music trend is uncanny dirty aesthetics that artists 
 
 ## The Best Uncanny Dirty Outsider Lo-Fi 2027 Track
 ### [Uncanny Dirty Outsider Basement Cassette Instrumental](https://suno.com/s/De3cHWiHoV8vTBO6)
+### [v2](https://suno.com/s/BAoqrpg84RCzBaLw)
 ### [Uncanny Dirty Outsider Basement Cassette Persona](https://suno.com/persona/c240912e-7e76-4d37-83cb-4ad23982a3ea)
 
 ## The Best AI-Hyperfolk Appalachian Mountain Chapel 808 2027 Track
 ### [AI-Hyperfolk Appalachian Mountain Chapel 808 Instrumental](https://suno.com/s/TbJJPLg6qTbCQjgi)
+### [v0](https://suno.com/s/RQQjNqITYv0rTRG3)
 ### [AI-Hyperfolk Appalachian Mountain Chapel 808 Persona](https://suno.com/persona/1456a179-33c5-4b2e-8ef5-585ffa173542)
 
 ## Uncanny Dirty Outsider Lo-Fi (2027)
