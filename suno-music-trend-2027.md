@@ -1244,6 +1244,51 @@ Uncanny Dirty Outsider Lo-Fi type beat with heavy sub bass. 66–74 BPM (±3), l
 [Mo-Town Vocals Male](https://suno.com/persona/519931a6-4070-4a2e-87a4-c8709ea93b7e)
 Uncanny Dirty Outsider Lo-Fi. 66–74 BPM (±3), loose 4/4 with occasional short bars. Aeolian↔️Phrygian (♭2); rare Locrian color; parallel fifths; avoid functional cadences; drones on i/♭II. Melody: naive, narrow (≤ m6), repeated cells; intonation ±15–25 cents. Sources: detuned nylon guitar, toy/tack piano, thrift-store drum box (56–60% swing, late flams), contact-mic percussion, melodica/harmonica bends, cassette hiss/hum. Sound: mono/narrow; 12-/8-bit; wow/flutter ≈1.2%; clipped transients; band-limit 300–3.8 kHz; short metallic spring; no correction. Form: through-composed 1:10–1:40; keep count-in/mistakes; abrupt non-cadential stop. A spoken word performance with a male vocalist delivering lyrics in a rhythmic, conversational style. The vocal delivery is clear and direct, with a slight echo effect applied. The vocal range is within a baritone register. The overall production is minimalist, highlighting the lyrical content.
 
+### Uncanny Witch House (2027 style) - dark electronic ritualism, slow occult groove, distorted spiritual decay
+industrial ritual electronica blending spectral ambience, gothic dissonance, and rhythmic decay. Tempo: 60–72 BPM (±2), half-time 4/4, syncopated kicks, bar truncations. Tonality: Aeolian↔Phrygian (♭2 focus), rare Locrian; drones on i/♭II; parallel 5ths, no cadences. Texture: distorted choirs, detuned bass, pitched percussion, reversed cymbals, gated noise. Sound: wide stereo, decayed mids, LPF 8 kHz, sub <70 Hz, 4 s+ cathedral reverb. Instruments: granular pads (amplitude flutter 0.8–1.3 Hz); overdriven trap beat (58% swing); distorted sub drone; reverse piano or metallic bell (1–2 note motif); down-pitched whispers or choral pads. Form (~1:40): ambient intro → bass + beat → drone bridge → full distortion → abrupt ♭II stop. Mix: 12-bit grit, compressed mids, 30% width mod, 60 ms pre-delay, −10 LUFS. Mood: eerie, sacred, post-industrial—a digital liturgy for extinct gods.
+
+### Uncanny Witch House — (2027 style)
+```
+Style: Uncanny Witch House — industrial ritual electronica with spectral ambience, gothic dissonance, and rhythmic collapse.
+Tempo: 60–72 BPM (±2), half-time 4/4; syncopated kick placement; bar truncations allowed.
+Tonality: Aeolian ↔ Phrygian (♭2 emphasis), occasional Locrian turns; sustain drones on i/♭II; parallel 5ths, no V–i cadences.
+Texture: layered distortion, synthetic choirs, detuned synth bass, pitched percussion, reversed cymbals, gated noise swells.
+Sound design: wide stereo but decayed midrange; low-pass 8 kHz; sub drone <70 Hz; reverb tails >4 s (cathedral/warehouse).
+Instrumentation:
+
+Granular synth pads (modulated amplitude flutter 0.8–1.3 Hz)
+
+Slow, overdriven trap beat (swing 58%)
+
+Analog bass drone or square sub with distorted clipping
+
+Reverse piano / metallic bell melody (1–2 note motif)
+
+Down-pitched whispered vocals / choral formant pads
+Structure (~1:40): Intro (pad + whispers) → Drop A (bass + half-time beat) → Drone Bridge (texture-only) → Drop B (full distortion) → abrupt end on ♭II.
+Mix: 12-bit saturation, midrange compression, 30% stereo width modulation, spring reverb pre-delay 60 ms, −10 LUFS.
+Mood: eerie, devotional, post-industrial — ritual music for the dying mainframe.
+```
+
+### Uncanny Witch House — (2027 Spot Refined)
+```
+Style: Uncanny Witch House — occult electronic ritualism fused with industrial ambience and spectral melody.
+Tempo: 60–74 BPM (±2); half-time 4/4; loose syncopation; short-bar truncations for rhythmic unease.
+Harmony: Aeolian ↔ Phrygian (♭2 focus); rare Locrian ♭5; parallel 5ths and open 4ths; no cadences; long drones on i/♭II.
+Texture: layered distortion, reversed reverb tails, distant metallic percussion, down-pitched choral fragments.
+Instrumentation:
+– Sub-bass drone or analog square LFO (<70 Hz).
+– Distorted 808 kick + crushed snare; swing ≈ 58%.
+– Bell/organ pad in Phrygian cluster (1–♭2–5).
+– Vocal sample: whispered, genderless, heavily gated; −6 to −9 st pitch-shift.
+– Granular synths and reversed piano swells.
+Sound design: 24-bit, dark-wide stereo; LPF 8 kHz, HPF 60 Hz; reverb tail > 4 s (cathedral IR); distortion ≈ 15 % wet.
+Form (~1 ½ min): ambient intro → drop A (bass + chant) → break (drones only) → drop B (full texture) → abrupt cut on ♭II.
+Mix: heavy compression (ratio 4:1, −9 LUFS); sidechain kick→pads; reverb pre-delay 70 ms.
+Mood: ritualistic, digital, sacredly “evil” — artificial devotion echoing through an empty cathedral of machines.
+```
+
+
 ## Best Bluegrass Gospel Description
 A bluegrass gospel song is an acoustic, harmony-driven expression of Christian faith rooted in Appalachian tradition, typically performed with banjo, fiddle, mandolin, guitar, upright bass, and sometimes dobro, combining strong vocal harmonies—often with a soaring tenor above the lead—with driving 2/4 or 4/4 rhythms and instrumental breaks between verses. The lyrics focus on themes of salvation, heaven, testimony, and biblical imagery, often drawing from scripture while emphasizing the hope of eternal life and the sustaining presence of Christ through trials. Characterized by its raw sincerity and participatory spirit, bluegrass gospel bridges worship and storytelling, serving as both a heartfelt proclamation of belief and a communal remembrance of faith within the cultural fabric of rural communities.
 ```
