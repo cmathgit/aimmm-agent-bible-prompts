@@ -1,5 +1,5 @@
 # aimmm-bible-chatgpt-prompts
-AI Multi-Modal Model (AIMMM) Bible ChatGPT+Suno+Continue+OpenWebUI+Cursor+Perplexity+RAG Prompts (P.O.M.L.)
+AI Multi-Modal Model (AIMMM) Bible ChatGPT+Mistral+Suno+Continue+OpenWebUI+ControlFlow+Llama.cpp+Ollama+Cursor+PerplexitySearch+RAG Prompts (P.O.M.L.)
 
 Repo is under reorganization. Some files may have been moved or renamed. Check the [archive folder](https://github.com/cmathopen/aimmm-bible-chatgpt-prompts/tree/main/archive) for the original files.
 

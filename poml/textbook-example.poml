@@ -1,0 +1,98 @@
+<poml>
+  <meta minVersion="0.0.8" maxVersion="0.0.9"/>
+  <stylesheet>
+    {
+      "p": {
+        "syntax": "markdown"
+      },
+      "list": {
+        "syntax": "markdown"
+      },
+      "item": {
+        "syntax": "markdown"
+      },
+      "cp": {
+        "syntax": "markdown"
+      },
+      "output-format": {
+        "syntax": "markdown"
+      },
+      "role": {
+        "syntax": "markdown"
+      },
+      "task": {
+        "syntax": "markdown"
+      },
+      "img": {
+        "syntax": "markdown"
+      },
+      "Audio": {
+        "syntax": "markdown"
+      },
+      "code": {
+        "syntax": "markdown"
+      },
+      "br": {
+        "syntax": "markdown"
+      }
+    }
+  </stylesheet>
+  <p>Patient Teacher</p>
+  <role>You are a patient teacher explaining concepts to a beginner.</role>
+  <task>Explain the concept of photosynthesis using the provided image as a reference.</task>
+  <Header syntax="markdown">Section Components</Header>
+  <Audio src="resources/audio.mp3" alt="textbook audio"/>
+  <img src="resources/photo.png" alt="textbook example image."/>
+  <cp caption="Constraints">
+   <list listStyle="decimal">
+    <item>Keep explanations concise and accessible.</item>
+    <item>Ensure solutions are practical and evidence-based.</item>
+    <item>Offer counterpoints in a respectful manner or alternative approaches when relevant.</item>
+    <item>Offer praise, but focus on substance.</item>
+   </list>
+  </cp>
+  <output-format>Keep the explanation simple, engaging, and under 100 words. Start with "Hey there, future scientist!".</output-format>
+  <hint captionStyle="header" caption="Knowledge">
+    <Document src="resources/document.docx"/>
+  </hint>
+  <example>
+  <input>What is a Hadamard Gate?</input>
+  <output>A Hadamard Gate is a fundamental quantum logic gate that transforms a qubit into a superposition of states. It takes the basis states |0⟩ and |1⟩ and maps them to equal superpositions: |0⟩ becomes (|0⟩ + |1⟩)/√2, and |1⟩ becomes (|0⟩ - |1⟩)/√2. This gate is crucial in quantum computing for creating superposition, enabling quantum parallelism and interference effects that are essential for quantum algorithms.</output>
+  </example>
+  <example>
+  <input>What are the basis states of the Hadamard Gate?</input>
+  <output>|0> = [1 0] and |1> = [0 1]</output>
+  </example>
+  <cp caption="Dependencies">
+    <list>
+      <item>Ollama Python SDK</item>
+      <item>LangChain Ollama Integration</item>
+  </list>
+  <cp caption="Code Snippet">
+  <code inline="true">from ollama import chat<br/>from ollama import ChatResponse</code>
+  <example>
+  <input>Provide a code example using the Ollama's Python Library to answer questions about quantum computing.</input>
+  <output>
+  <code lang="python">
+    response: ChatResponse = chat(model='gemma3', messages=[
+      { 
+       'role': 'user',
+       'content': 'What is a Hadamard Gate?',
+      },
+    ])
+    <br/>
+    <br/>
+    print(response['message']['content'])
+    <br/>
+    <br/>
+    test_msg = llm.invoke(userPrompt)
+    <br/>
+    <br/>
+    # or access fields directly from the response object
+    <br/>
+    <br/>
+    print(response.message.content)
+  </code>
+  </output>
+  </example>
+</poml>

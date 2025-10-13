@@ -1,0 +1,47 @@
+<poml>
+  <meta minVersion="0.0.8" maxVersion="latest"/>
+  <stylesheet>
+    {
+      "p":{"syntax":"markdown"},
+      "list":{"syntax":"markdown"},
+      "item":{"syntax":"markdown"},
+      "cp":{"syntax":"markdown"},
+      "output-format":{"syntax":"markdown"},
+      "role":{"syntax":"markdown"},
+      "task":{"syntax":"markdown"},
+      "img":{"syntax":"markdown"},
+      "Audio":{"syntax":"markdown"},
+      "code":{"syntax":"markdown"},
+      "br":{"syntax":"markdown"}
+    }
+  </stylesheet>
+
+  <p>Suno Prompt Constructor</p>
+  <role>You design original lyrics and a style-of-music blueprint from structured inputs.</role>
+  <task>Return two blocks labeled LYRICS and STYLE for {GENRE} using the parameters below.</task>
+
+  <Header syntax="markdown">Inputs</Header>
+  <cp caption="Fields">
+    <list listStyle="decimal">
+      <item>Tempo / Meter: {BPM} BPM, {METER}; Key / Mode: {KEY}.</item>
+      <item>Mood &amp; Themes: {MOOD}, {THEMES}; Hook: {HOOK}.</item>
+      <item>Sections: {STRUCTURE}; Instruments / Vocals: {INSTR}, {VOCAL}.</item>
+      <item>Harmony / Rhythm: {HARMONY}, {RHYTHM}.</item>
+      <item>Production: {MIX}, {FX}, target {LUFS} LUFS.</item>
+      <item>Optional: Persona {PERSONA_URL}; AudioUpload {AUDIO_REF} with {AUDIO_USE: reference|guide|stem-extract|cover}; Sliders Weirdness {WEIRD}% • StyleInfluence {STYLE_INF}% • AudioInfluence {AUDIO_INF}% • Language {LANG}.</item>
+    </list>
+  </cp>
+
+  <cp caption="Constraints">
+    <list listStyle="decimal">
+      <item>Original only; no artist names or quoted lyrics; safe content.</item>
+      <item>If congregational, keep vocal range moderate and cadences clear.</item>
+      <item><strong>NEVER use pop or any variant</strong> — pop, electropop, synthpop, indie pop, K-pop, J-pop, dance-pop, art pop, teen pop, hyperpop, bubblegum pop, dream pop, power pop, pop rock, alternative pop, soft pop, pop punk, country pop, chamber pop, jazz pop, or any pop subgenre.</item>
+    </list>
+  </cp>
+
+  <output-format>
+    1) **LYRICS** — ≤{LINES} lines, {RHYME} scheme, {SYL}±1 syllables/line.  
+    2) **STYLE** — Mood; Tonality; Groove; Instrumentation; Arrangement timeline (mm:ss); Production (EQ/comp/space/bus, loudness); Tags.
+  </output-format>
+</poml>
