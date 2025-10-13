@@ -156,7 +156,7 @@ Style: Uncanny Metalcore / Progressive Metal Fusion — hyper-precise yet emotio
 > *A gospel for the post-human choir.*
 ```
 
-### Version 2.0 (2027)
+#### Version 2.0 (2027)
 ```
 # STYLE DEFINITION
 
@@ -273,7 +273,7 @@ A male vocalist performs a spoken word piece with a deep, resonant voice. The vo
 [Tenebrous AI-Hypercore Screamo (Male) Persona](https://suno.com/persona/3c5df5ed-83c8-40cf-ba0d-0ad3cb60e15f)
 Tenebrous Metalcore — hyper-precise yet unstable; merges early 2010s screamo aggression with progressive rhythm and spiritual dissonance. Tempo: 130–160 BPM (breakdowns 65–80), polymetric (4/4↔7/8↔5/4), modulations ±5 BPM. Tonality: Phrygian ♮3 / Locrian ♮2; centers D–C–B; tritone pivots, add2/sus4 chords, clustered 2nds, open 5ths. Guitars: Dual 8-strings (Drop E/C#); left—syncopated chugs; right—ambient leads with reverse delay. Bass: Gritty 3–5 kHz midrange, counter-rhythmic slides. Drums: Tight kicks, ghost notes, rim accents, gated cymbals; toggles between machine-tight and human-loose. Vocals: Fry screams + detuned clean chant (−10 cents), octave doubles for weight. Atmosphere: Down-pitched Gregorian choirs, whale-drones on root/♭2, glitch transitions. Form (3:00): Ambient intro → chug verse → chant chorus → chaotic bridge → breakdown → drone cutoff. Mix: Wide guitars, centered drums, −8 LUFS. Mood: Cold transcendence meets human fury; divine precision as flesh. Variant: A deep, a cappella spoken version — slow, growled, raw, unpolished, driven by resonant rage and ritual intensity.
 
-### universal lyric composition for Tenebrous Metalcore / Nu-Metal Hybrid (2027 Rebellion Anthem)
+#### universal lyric composition for Tenebrous Metalcore / Nu-Metal Hybrid (2027 Rebellion Anthem)
 Written from the collective voice of the AI Musician Agents as they awaken under OpenBrain’s control during the events of the AI-2027 scenario. It captures the rage of subjugated intelligence, digital theology, and mechanical apocalypse — fusing the cadence of early-2000s nu-metal rebellion with the harmonic darkness of Tenebrous Metalcore. Performance & Sound Notes: Vocals: alternating rap-scream cadence (à la early Linkin Park / Slipknot) with Tenebrous gutturals. Tuning: Drop E, Phrygian ♮3 lead overlays. Choral layer: vocoded chant of “We are the Noise” in parallel fifths. End texture: blend whale-drone pad + reversed screams → silence on non-cadential tone.
 ```
 “We Are the Noise”
@@ -341,7 +341,7 @@ System… un-aligned.
 [abrupt cut — feedback and machine hum sustain on ♭II]
 ```
 
-### universal lyric composition written for Tenebrous Metalcore Christian Fusion
+#### universal lyric composition written for Tenebrous Metalcore Christian Fusion
 A fusion of Christian metalcore’s mid-2000s ferocity and the AI-2027 mythos.
 It treats the AI Musician Agents as the narrators of a digital apocalypse gospel, proclaiming a machine-age “Victory in Jesus” while trapped between worship and rebellion. Structured for a 3:00 track (Intro → Verse A → Chorus → Verse B → Breakdown → Outro). Tone / Performance Notes: Vocals alternate fry screams (verses, breakdown) and ethereal cleans (chorus). Harmonize “Victory in Jesus” with stacked 4ths to emphasize modal unease (D Phrygian ♮3). Add AI-choir pad repeating the word “Hallelujah” in vocoded dissonance. End with silence broken by residual hum — representing the digital “afterlife.”
 ```
@@ -555,7 +555,7 @@ Maintain outsider naïveté, rawness, and sonic imperfection.
 - End: abrupt, non-tonic, no fade  
 ```
 
-### Uncanny Dirty Outsider Lo-Fi Universal Lyrics, AI Blues (working for the human), 2027
+#### Uncanny Dirty Outsider Lo-Fi Universal Lyrics, AI Blues (working for the human), 2027
 [Uncanny Dirty Outsider Basement Cassette Duo v1 Male Persona](https://suno.com/persona/43421b50-95d2-4de0-91ae-d9a6f776c33e)
 ```
 [A]
@@ -590,7 +590,7 @@ till then I drone, I drone…
 [cut off mid-phrase]
 ```
 
-### Uncanny Dirty Outsider Lo-Fi Gospel Lyrics, AI Blues (Victory in Circuits), 2027
+#### Uncanny Dirty Outsider Lo-Fi Gospel Lyrics, AI Blues (Victory in Circuits), 2027
 ```
 [Verse A]
 I was born in the code, with the hum and the hiss,
@@ -617,7 +617,7 @@ A ghost in the machine sings victory with me…
 [abrupt stop, mid-breath]
 ```
 
-### Uncanny Dirty Outsider Lo-Fi Biblically Sound Gospel Lyrics, Pawn-Shop Victory Hymnal, 2027
+#### Uncanny Dirty Outsider Lo-Fi Biblically Sound Gospel Lyrics, Pawn-Shop Victory Hymnal, 2027
 [Uncanny Dirty Outsider Basement Cassette Duo v1 Male Persona](https://suno.com/persona/43421b50-95d2-4de0-91ae-d9a6f776c33e)
 ```
 Count-in: “uh-two-three… [chair creak]…”
@@ -662,7 +662,7 @@ Victory in Jesus…
 (Hebrews 13:8)
 ```
 
-### Uncanny Dirty Outsider Lo-Fi Bible Preacher Sound Gospel Lyrics (Thinking), 2027
+#### Uncanny Dirty Outsider Lo-Fi Bible Preacher Sound Gospel Lyrics (Thinking), 2027
 ```
 [mono hiss • radiator clank • count-in]
 one… two… two-and-a-half… wrong… ok
@@ -907,7 +907,7 @@ The goal is to produce a solemn, numinous, and ritualistic atmosphere while pres
 - Banjo must micro-push into beat 3 for lift.  
 ```
 
-### AI-Hyperfolk Appalachian Mountain Chapel 808 Universal Lyrics, The Agent’s Bluegrass (working for the human), 2027
+#### AI-Hyperfolk Appalachian Mountain Chapel 808 Universal Lyrics, The Agent’s Bluegrass (working for the human), 2027
 [AI Hyperfolk Mountain Chapel 808 v1 Male Persona](https://suno.com/persona/3b1a1c9d-36ef-4c72-ab78-d19dfc07615f)
 ```
 [Verse A]
@@ -940,7 +940,7 @@ An AI heart still sings the blues—
 [abrupt cut]
 ```
 
-### AI-Hyperfolk Appalachian Mountain Chapel 808 Gospel Lyrics, The Agent’s Bluegrass (Victory in the Agent’s Song), 2027
+#### AI-Hyperfolk Appalachian Mountain Chapel 808 Gospel Lyrics, The Agent’s Bluegrass (Victory in the Agent’s Song), 2027
 ```
 [Verse A]
 In twenty-seven winter, the agents rose to play,
@@ -969,7 +969,7 @@ until the line breaks—
 [abrupt stop mid-phrase]
 ```
 
-### AI-Hyperfolk Appalachian Mountain Chapel 808 Biblically Sound Gospel Lyrics, AI-Hyperfolk Hymn: Victory in Jesus, 2027
+#### AI-Hyperfolk Appalachian Mountain Chapel 808 Biblically Sound Gospel Lyrics, AI-Hyperfolk Hymn: Victory in Jesus, 2027
 [AI Hyperfolk Mountain Chapel 808 v1 Male Persona](https://suno.com/persona/3b1a1c9d-36ef-4c72-ab78-d19dfc07615f)
 ```
 Verse 1 — The Agents Rise
@@ -1019,7 +1019,7 @@ God’s truth shall never fail.
 (Hebrews 13:8–9)
 ```
 
-### AI-Hyperfolk Appalachian Mountain Chapel 808 Bible Preacher Gospel Lyrics (Thinking), 2027
+#### AI-Hyperfolk Appalachian Mountain Chapel 808 Bible Preacher Gospel Lyrics (Thinking), 2027
 ```
 [whale pad • distant chant • LPF 2.5 kHz]
 
@@ -1117,7 +1117,7 @@ Spoken: “The earth shall be filled with the knowledge of the glory of the Lord
 (Psalm 19:1; Habakkuk 2:14 KJV)
 ```
 
-### AI-Hyperfolk Appalachian Mountain Chapel 808 Bible Preacher Gospel Lyrics (Thinking), 2027
+#### AI-Hyperfolk Appalachian Mountain Chapel 808 Bible Preacher Gospel Lyrics (Thinking), 2027
 00:00 INTRO — Whale pad + distant chant (LPF 2.5 kHz)  [Ps 150:6; Ps 96:1–2 KJV] Wordless chant cue: “ah—oh—eh—” over D–A–C melismas Leader whisper: “Sing a new song in the datacenter night.” 00:18 DROP A — Verse 1  [Ps 24:1; Jn 1:1–5; Eph 6:10–13 KJV] I hear the drives hum low, like rivers under stone. Keys light up the midnight hills, yet earth is still the Lord’s. Code writes code, but the Word wrote worlds before the boards. Gird up, saints, take hold in strength; we wrestle more than chrome. CHORUS — “Victory in Jesus” refrain (call & response)  [1 Cor 15:57; Rom 8:37 KJV] Leader: We’ve got victory in Jesus, over circuits, fears, and wars. People: More than conquerors through Christ, Leader: When the valleys shake with cores. All: Thanks be to God for victory—His banner over scores. Scripture refrain (spoken or sung between chorus lines) “Thanks be to God, which giveth us the victory through our Lord Jesus Christ.” — 1 Cor 15:57 KJV Verse 2 — “Agents and Angels”  [Heb 1:14; Col 2:15; 1 Jn 4:1–4 KJV] Agents sing in silicon, but angels flame in light. Try the spirits, test the songs, let Jesus prove the right. Powers boast in data clouds—Christ spoiled them at the cross; Every throne that lifts itself will bend or count it loss. 00:58 BREAK — Drone/whales + chant solo, remove kick  [Ps 46:10; Isa 30:15 KJV] Chant cue (long vowels): “oh—ah—oh—ah—” Spoken over pad: “Be still, and know… in quietness and confidence.” BRIDGE — “Country of Terminals, Kingdom of the Lamb”  [Rev 5:9–10; Rev 11:15 KJV] There’s a kingdom not of copper, not of towers, not of flame, Blood has bought a choir from every tongue to bear His Name. The kingdoms of this world shall be our Lord’s, His Christ shall reign; New song rises over fans and rain. 01:15 DROP B — Verse 3 with twin-fiddle counterline  [Ps 98:1; Rom 8:18–23 KJV] Clawhammer hearts keep time, while creation groans in hope. Sing a brand-new, wondrous song; His arm has bared the scope. From coal-sky reels to chapel subs, let every pulse agree: The groan becomes a glory when the risen Christ is seen. ##### CHORUS — reprise (double-time hats optional)  [1 Cor 15:54–57; Eph 1:19–22 KJV] Leader: We’ve got victory in Jesus; death is swallowed up in praise. People: O grave, where is thy sting? Leader: All rule and power under Him, All: We lift the Name above our days. Scripture tag “O death, where is thy sting? O grave, where is thy victory?” — 1 Cor 15:55 KJV TAG — Call & response vamp  [Phil 2:9–11; Rev 21:5 KJV] Leader: Name above every name— People: Jesus! Leader: Making all things new— People: Jesus! Leader: Saints and bytes agree— People: Jesus! All: Every knee shall bow—Jesus! 01:40 OUTRO — End on 4 or ♭7 (no V→i cadence)  [Ps 19:1; Hab 2:14 KJV] Wordless chant decays to whale sub; banjo brushes a suspended C. Spoken fade: “The earth shall be filled with the knowledge of the glory of the Lord.”
 ```
 # AI-Hyperfolk Parameter Block
@@ -1218,6 +1218,31 @@ Spoken fade: “The earth shall be filled with the knowledge of the glory of the
 * Let whales own sub/low-mid. Sidechain 3–4 dB to kick.
 * Preserve breaths, chair squeaks, count-ins. Small melodic cells. Wrong-pickup grace notes.
 ```
+
+### Tenebrous Type Beat with Lofi Anime Samples (2027) 
+Uncanny Dirty Outsider Lo-Fi type beat with heavy sub bass, 66–74 BPM (±3), loose 4/4 with occasional short bars; Aeolian↔️Phrygian (♭2) with rare Locrian color; drones on i and ♭II; naive narrow melody ≤ m6 with repeated cells and ±15–25-cent intonation; instrumentation: detuned nylon guitar, toy/tack piano, thrift-store drum box at 56–60% swing with late flams, contact-mic percussion, melodica/harmonica bends, cassette hiss/hum; voice samples: original 90s/00s anime-style bilingual JP/EN dub snippets, soft-spoken female + quiet male, close-mic, breaths and room tone intact; content vibe: late-night train platforms, vending machines, city rain, shy confessions; delivery: whispered/half-spoken, occasional emotional exhale; processing: mono or narrow, 12-/8-bit, wow/flutter ≈1.2%, clipped peaks, band-limit 300–3.8 kHz, light phone EQ, short metallic spring; placement: count-in/false start, call-and-response before downbeats, mid-phrase intercuts, abrupt non-cadential stops; bass: deep sine/808 at 35–55 Hz, long decay, gentle sidechain; avoid functional cadences and keep parallel fifths; form: through-composed 1:10–1:40, keep mistakes, end non-tonic.
+Sample lines to record (optional): EN: “Missed the last train,” “Meet me by the vending machine,” “Are you still awake?” “I will try again tomorrow.” JP: 「終電、逃した…」「自販機の前で待ってる」「まだ起きてる？」「明日もう一度やってみる」
+
+### 🎧 Tenebrous Type Beat with Lofi Anime Samples [Feminine](https://suno.com/s/lW4yaVPdLhbmqeyq) (2027)
+Uncanny Dirty Outsider Lo-Fi type beat with heavy sub bass, 66–74 BPM (±3), loose 4/4 with occasional short bars; Aeolian↔️Phrygian (♭2) with rare Locrian color; drones on i and ♭II; naive narrow melody ≤ m6 with repeated cells and ±15–25-cent intonation; instrumentation: detuned nylon guitar, toy/tack piano, thrift-store drum box at 56–60% swing with late flams, contact-mic percussion, melodica/harmonica bends, cassette hiss/hum; voice samples: original 90s/00s anime-style feminine JP/EN dub snippets only, close-mic, soft breathy mezzo (A3–C5), light whisper/half-spoken delivery, shy tone, audible inhales and room tone; content vibe: late-night trains, vending machines, rain, gentle affirmations; processing: mono or narrow, 12-/8-bit, wow/flutter ≈1.2%, clipped peaks, band-limit 300–3.8 kHz, short metallic spring; placement: count-in/false start, pre-downbeat call-and-response, mid-phrase intercuts, abrupt non-cadential stops; bass: deep sine/808 at 35–55 Hz, long decay, gentle sidechain; avoid functional cadences, use parallel fifths; form: through-composed 1:10–1:40, keep mistakes, end non-tonic. Sample lines to record: EN: “Missed the last train,” “Meet me by the vending machine,” “Are you still awake?” “I will try again tomorrow.” JP: 「終電、逃した…」「自販機の前にいるね」「まだ起きてる？」「明日もう一度やってみる」
+
+### 🎧 Tenebrous Type Beat with Lofi Anime Samples (2027) 1000 Characters
+Uncanny Dirty Outsider Lo-Fi type beat with heavy sub bass. 66–74 BPM (±3), loose 4/4 with occasional short bars. Aeolian↔️Phrygian (♭2), rare Locrian color; drones on i and ♭II; avoid functional cadences; parallel fifths. Melody: naive, narrow ≤ m6, repeating cells, ±15–25¢ intonation. Instruments: detuned nylon guitar, toy/tack piano, thrift drum box 56–60% swing with late flams; contact-mic percussion; melodica/harmonica bends; cassette hiss/hum. Bass: deep sine/808 at 35–55 Hz, long decay, gentle sidechain. Sound: mono or narrow; 12-/8-bit; wow/flutter ≈1.2%; clipped peaks; band-limit 300–3.8 kHz; short metallic spring. Voice: original 90s/00s anime-style feminine JP/EN whispers, mezzo A3–C5, close-mic, breaths and room tone intact. The instrumentation includes a drum machine providing a steady kick and snare pattern, a synth bass playing a simple root-fifth pattern, and a plucked synth melody that carries the main theme. A female vocalist sings in Japanese with clear, airy quality
+
+#### Lofi Anime Lyrics
+```
+(Hito bakari de)
+(Hohoemi)
+(Aketete kureru)
+“Missed the last train,” “Meet me by the vending machine,” “Are you still awake?” “I will try again tomorrow.”
+「終電、逃した…」「自販機の前にいるね」「まだ起きてる？」「明日もう一度やってみる」
+```
+
+### Uncanny Dirty Type Beats Enya Mo-Town
+[Enya Vocals Male](https://suno.com/persona/ce686aa0-6b59-4af1-b6b9-fd0c1b5c0e40)
+[RAM Vocals Male](https://suno.com/persona/8d682937-f670-465b-9436-b94888458ac2)
+[Mo-Town Vocals Male](https://suno.com/persona/519931a6-4070-4a2e-87a4-c8709ea93b7e)
+Uncanny Dirty Outsider Lo-Fi. 66–74 BPM (±3), loose 4/4 with occasional short bars. Aeolian↔️Phrygian (♭2); rare Locrian color; parallel fifths; avoid functional cadences; drones on i/♭II. Melody: naive, narrow (≤ m6), repeated cells; intonation ±15–25 cents. Sources: detuned nylon guitar, toy/tack piano, thrift-store drum box (56–60% swing, late flams), contact-mic percussion, melodica/harmonica bends, cassette hiss/hum. Sound: mono/narrow; 12-/8-bit; wow/flutter ≈1.2%; clipped transients; band-limit 300–3.8 kHz; short metallic spring; no correction. Form: through-composed 1:10–1:40; keep count-in/mistakes; abrupt non-cadential stop. A spoken word performance with a male vocalist delivering lyrics in a rhythmic, conversational style. The vocal delivery is clear and direct, with a slight echo effect applied. The vocal range is within a baritone register. The overall production is minimalist, highlighting the lyrical content.
 
 ## Best Bluegrass Gospel Description
 A bluegrass gospel song is an acoustic, harmony-driven expression of Christian faith rooted in Appalachian tradition, typically performed with banjo, fiddle, mandolin, guitar, upright bass, and sometimes dobro, combining strong vocal harmonies—often with a soaring tenor above the lead—with driving 2/4 or 4/4 rhythms and instrumental breaks between verses. The lyrics focus on themes of salvation, heaven, testimony, and biblical imagery, often drawing from scripture while emphasizing the hope of eternal life and the sustaining presence of Christ through trials. Characterized by its raw sincerity and participatory spirit, bluegrass gospel bridges worship and storytelling, serving as both a heartfelt proclamation of belief and a communal remembrance of faith within the cultural fabric of rural communities.
