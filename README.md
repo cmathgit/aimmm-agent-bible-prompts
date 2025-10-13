@@ -1,4 +1,8 @@
-# bible-chatgpt-prompts
+# aimmm-bible-chatgpt-prompts
+AI Multi-Modal Model (AIMMM) Bible ChatGPT+Suno+Continue+OpenWebUI+Cursor+Perplexity+RAG Prompts (P.O.M.L.)
+
+Repo is under reorganization. Some files may have been moved or renamed. Check the [archive folder](https://github.com/cmathopen/aimmm-bible-chatgpt-prompts/tree/main/archive) for the original files.
+
 ---
 license: cc0-1.0
 tags:
@@ -17,7 +21,7 @@ size_categories:
   <h1 align="center">🧠📖 Bible ChatGPT Prompts [CSV Dataset]</h1>
 </p>
 
-Initially for ChaptGPT prompts pertaining to bible study. Now, a curated collection of specialized LLM/SLM prompts for not only biblical studies, theological research, and Christian apologetics, but also Agent instructions, AI-Security Methodology, and Prompt Engineering for music generation. This dataset enables AI assistants to provide nuanced analysis of scripture, theological concepts, and historical religious contexts. Additional prompts included for all religions, philosophies, sciences, and other areas of study, e.g., anthropology, mathematics, and computer science.
+Initially for ChaptGPT prompts pertaining to bible study. Now, a curated collection of specialized MMM/LLM/SLM prompts for not only biblical studies, theological research, and Christian apologetics, but also Agent instructions, AI-Security Methodology, and Prompt Engineering (P.O.M.L.) to be used for Oracle Cloud Development, Full-Stack Engineering, Medicine (RAG), Academic Study (Philosophy, Anthropology, Mathematics, Computer Science, etc.), music generation, and more. This dataset enables AI assistants to provide nuanced analysis of scripture, theological concepts, and historical religious contexts. Additional prompts included for all religions, philosophies, sciences, and other areas of study, e.g., anthropology, mathematics, and computer science.
 
 # The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 
 ## [AI-Hyperfolk x Canticum Megapterae x Gregorian Chants X Trap Beats Suno Playlist](https://suno.com/playlist/fb8ea7a0-d38f-4f59-be73-38e3781c2ca4)
