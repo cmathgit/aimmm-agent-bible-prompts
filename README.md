@@ -18,7 +18,7 @@ size_categories:
 ---
 
 <p align="center">
-  <h1 align="center">🧠📖 Bible ChatGPT Prompts [CSV Dataset]</h1>
+  <h1 align="center">🧠📖 Bible AIMMM Prompts [Dataset]</h1>
 </p>
 
 Initially for ChaptGPT prompts pertaining to bible study. Now, a curated collection of specialized MMM/LLM/SLM prompts for not only biblical studies, theological research, and Christian apologetics, but also Agent instructions, AI-Security Methodology, and Prompt Engineering (P.O.M.L.) to be used for Oracle Cloud Development, Full-Stack Engineering, Medicine (RAG), Academic Study (Philosophy, Anthropology, Mathematics, Computer Science, etc.), music generation, and more. This dataset enables AI assistants to provide nuanced analysis of scripture, theological concepts, and historical religious contexts. Additional prompts included for all religions, philosophies, sciences, and other areas of study, e.g., anthropology, mathematics, and computer science.
