@@ -1,5 +1,10 @@
 # Orthogonality and High-Dimensional Vector Spaces in Generative AI Music Creation
 
+**Authors:** Powered by ChatGPT 4o Deep Research
+**Curator:** Cruz Macias
+**Date:** April 04, 2025
+**Version:** 1.0
+
 ## Abstract
 
 This paper investigates the use of high-dimensional orthogonal vector spaces as a systematic approach to creating nuanced generative music using Large Language Models (LLMs) and generative AI platforms. By integrating concepts from mathematical orthogonality, semantic vectorization, and advanced prompt engineering, this approach enables artists to achieve unprecedented control over emotional depth and stylistic complexity.

@@ -1,5 +1,10 @@
 # Responsible LLM Prompting for Sensitive Domains: A Standardized Framework for Privacy-Preserving AI Interaction
 
+**Authors:** Powered by GPT-5 and Perplexity Deep Research
+**Curator:** Cruz Macias
+**Date:** September 22, 2025
+**Version:** 1.0
+
 This research introduces the Responsible Prompting Protocol (RPP), a standardized framework designed to guide students and professionals in constructing prompts for Large Language Models (LLMs) that are de-identified, role-based, and ethically neutral across sensitive domains including medicine, education, and personal care. The protocol emphasizes seven core principles: de-identification through removal of personal pronouns, role clarity via functional descriptors, case framing as generalizable studies, neutral language avoiding emotional framing, consistency in third-person perspective, specificity without identification, and ethical awareness ensuring general rather than individualized guidance. Through comparative analysis of first-person versus third-person prompts across medical, fitness, and educational domains, this study demonstrates that the RPP framework significantly reduces privacy risks while maintaining clinical and educational utility. Implementation strategies for classroom integration across all academic majors are presented, positioning responsible AI prompting as a foundational competency for the next generation of professionals.
 
 ## Introduction
