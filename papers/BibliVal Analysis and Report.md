@@ -492,7 +492,7 @@ This suggests **prompt engineering** significantly impacts output quality.
 - **Expected Performance:** **A/A+ grade**
 - **Use Case:** Churches, ministries with no AI budget
 
-**Tier 2: Enhanced Performance (\$0.003/query)**
+**Tier 2: Enhanced Performance (\$0.005/query)**
 
 - **Model:** GLM-4.5-Flash (Z.AI free API)
 - **Embedding:** Ollama Local embeddinggemma:300m
@@ -891,7 +891,7 @@ This **false neutrality** treating Arianism as a "legitimate interpretive framew
 
 ***
 
-### **Tier 2: Enhanced Performance (\$0.003/query)**
+### **Tier 2: Enhanced Performance (\$0.005/query)**
 
 **Configuration:**
 
