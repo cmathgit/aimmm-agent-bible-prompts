@@ -17,6 +17,8 @@ Critical findings include: (1) **Embedding model selection** is more important t
 
 **Keywords:** Large Language Models, Biblical Exegesis, Christology, Retrieval-Augmented Generation, Theological AI, Cost Optimization, John 8:58
 
+Watch the Deep Dive by NotebookLM: [The AI Bible Test](https://www.youtube.com/watch?v=CnzgNd0pHms)
+
 ***
 
 ## 1. Introduction
