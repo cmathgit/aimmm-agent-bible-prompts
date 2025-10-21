@@ -1081,7 +1081,7 @@ response = glm_generate(
 
 **Cost Breakdown (per query):**
 
-- Perplexity API: \$0.003
+- Perplexity API: \$0.005
 - Ollama embedding: \$0 (local)
 - Mistral OCR: \$0 (local)
 - GLM-4.5-Flash: \$0 (Z.AI free tier)
