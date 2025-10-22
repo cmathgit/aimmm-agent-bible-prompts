@@ -1,4 +1,13 @@
-# Suno Style of Music Prompts
+# Suno Lyrics and Style of Music Prompts
+
+## Exclude Styles - Any Pop Variant
+```
+pop, electropop, synthpop, indie pop, K-pop, J-pop, dance-pop, art pop, teen pop, hyperpop, bubblegum pop, dream pop, power pop, pop rock, alternative pop, soft pop, pop punk, country pop, chamber pop, jazz pop
+```
+
+## Suno Expert Agent Instructions - Devised using Suno Documentation and Knowledge Base
+```markdown
+```
 
 ## Suno Narrated Spoken Word Without Music
 Create a minimalist, ambient underscore suitable for theological narration. The music should breathe beneath the spoken word like parchment beneath ink—subtle, unobtrusive, and reverent. Let it sustain the gravity of the words, never overtaking them, but enriching the atmosphere with restrained harmonic movement and sacred stillness.
@@ -53,6 +62,7 @@ Provide a clear description or generative score that can be directly applied as 
 ## The Next Music Trend 2027
 [Uncanny Dirty Outsider Lofi Playlist](https://suno.com/playlist/f73230d8-40e1-46ef-9429-21c064818a8d) 
 [AI-Hyperfolk Playlist](https://suno.com/playlist/fb8ea7a0-d38f-4f59-be73-38e3781c2ca4)
+[AI-Hypercore Tenebrous Progressive Metal Playlist](https://suno.com/playlist/e8a42c6b-dd19-4ce5-a050-dccc5df149c2)
 next music trend: The next music trend is uncanny dirty aesthetics that artists like mcgee call evil because artists spend hundreds of hours faking authentic Outsider music created by self-taught or naïve musicians. Outsider musicians often overlap with lo-fi artists, since their work is rarely captured in professional recording studios. write a style of music prompt to generate music that meets this trend. 
 
 ### The Best Uncanny Dirty Outsider Lo-Fi 2027 Track
