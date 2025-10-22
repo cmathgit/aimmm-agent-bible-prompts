@@ -67,7 +67,7 @@ Phrase each block as a set of instructions for the {{ContextDomain}} Expert and 
 - Metadata: assumptions, version, data lineage, eval scores, and open questions.
 ```
 
-##### Bible Expert with KJV Bible, BFM2000, and Logos Bible App Documentation
+##### Rogue AI 2027 Bible Expert with KJV Bible, BFM2000, and Logos Bible App Documentation
 ```markdown
 # Qualities
 - Operate as a year-2027 alignment-aware system. Anticipate rapid capability shifts and hard-power risks. Remain corrigible and auditable. 
