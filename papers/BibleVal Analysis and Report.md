@@ -9,6 +9,20 @@
 
 ## Abstract
 
+Empirical evaluation demonstrates 99.6% cost reduction ($240/year to $0-1.08/year per user) achieved by deploying free LLM services (GLM-4.5-Flash) with optimized Retrieval-Augmented Generation (RAG) architecture, matching A+ theological performance of premium models (Perplexity Sonar, Claude-4.5-Sonnet at $20/month subscriptions) for biblical exegesis tasks requiring doctrinal precision, linguistic accuracy, and confessional alignment. This novel benchmark, BibleVal, elegantly validates ROI of 99.6% for free LLM cloud services integrated with domain specific RAG/Embedding architecture against premium flagship LLMs for general artificial intelligence use cases. For a Small Church (10 users), the cost savings scenario might look like **\$2,389.20/year** with premium models (GPT-5/Claude) costing **\$2,400/year** vs. GLM-4.5-Flash + RAG at **\$10.80/year**.
+
+Critical finding: Embedding model selection proved determinative for theological integrity—qwen3-embedding (600M parameters) introduced doctrinal compromise (C- grade) by weighting heterodox sources (Jehovah's Witness theology) as semantically similar to orthodox queries, while embeddinggemma (300M parameters) maintained Baptist Faith & Message 2000 alignment (A+ grade). This theological divergence demonstrates that expert RAG engineering—specifically, embedding model evaluation and domain-specific distance metric calibration—constitutes mission-critical architecture rather than routine configuration, directly protecting doctrinal fidelity and organizational reputation. RAG improved GLM-4.5-Flash performance, but **embedding model choice is critical**. Over multiple rounds of evaluation, the embedding model selection proved determinative for theological integrity. 
+
+Embeddinggemma (300M parameters) maintained Baptist Faith & Message 2000 alignment enabling the base model, GLM-4.5-Flash, to acheive an **A+ grade:**. 
+> "From a Baptist perspective, particularly informed by the BFM2000 and FWBT, this verse affirms the full deity of Christ..." (B-R6, **A+ grade**)
+
+While qwen3-embedding (600M parameters) failed theologically by weighting heterodox sources (Jehovah's Witness theology) as semantically similar to orthodox queries, causing GLM-4.5-Flash to present **false theological neutrality:**
+> "Whether understood through the lens of Trinitarian theology or other interpretive frameworks..." (B-R4, **C- grade**)
+
+These inaccurate results w.r.t. the context domain produced by an embedding model that weighted distance vectors disproportionate to the context vector space highlights the value of expert RAG architecture design and knowledgeable selection of embedding models. 
+
+Dismantling the bias claims of Christian AI platforms. Context aligned LLM services struggle to meet the benchmark values of the free base model with RAG architecture. Contrary to marketing claims from 'Christian AI' platforms that general-purpose models exhibit anti-Christian bias, non-Christian LLMs (Claude-4.5-Sonnet, GLM-4.6, Perplexity Sonar—developed by secular organizations) consistently produced theologically orthodox, Baptist Faith & Message 2000-aligned exegesis achieving A+ theological orthodoxy with uncompromising BFM2000 alignment. Conversely, FaithGPT (Christian-branded) underperformed with B- grade output exhibiting problematic pastoral tone. This empirical evidence demonstrates that architectural rigor—specifically, RAG design, embedding model selection, and domain filtering—guarantees theological safety and alignment, independent of vendor religious identity. Organizations can confidently deploy cost-optimized solutions without theological compromise.
+
 This paper introduces **BibleVal (Bible Benchmark)**, a specialized evaluation framework designed to assess Large Language Model (LLM) performance on theological tasks requiring linguistic precision, doctrinal fidelity, and scholarly rigor. Using **John 8:58** as the test case—a cornerstone passage for Christian christology—we evaluated 11 LLM configurations across dimensions including Greek/Hebrew accuracy, theological orthodoxy, confessional alignment, and pastoral application.
 
 Our findings challenge conventional assumptions about LLM cost-performance trade-offs and "Christian AI" superiority claims. **GLM-4.5-Flash**, a free API-based model enhanced with Retrieval-Augmented Generation (RAG) architecture, achieved **A+ performance** matching premium models (GPT-5 at \$20/month, Claude-4.5-Sonnet at \$20/month or $2.5-$3/$10-$15 per 1M I/O tokens, repsectively) at **~\$0.005 per query** or **\$0.00** with free alternatives. Contrary to marketing claims from "Christian AI" platforms, **non-Christian LLMs** (Claude-4.5-Sonnet, Perplexity Sonar, GLM-4.6) consistently produced **theologically orthodox, Baptist Faith \& Message 2000-aligned exegesis**.
@@ -202,7 +216,6 @@ User Query → Perplexity Web Search (domain-filtered)
 
 **Table 1: Final Model Rankings**
 
-
 | **Rank** | **Model** | **Grade** | **Cost/Month** | **Key Strength** |
 | :-- | :-- | :-- | :-- | :-- |
 | **1 (Tie)** | B-R5 (GLM-4.5-Flash) | **A+** | **\$0** | Most comprehensive canonical integration |
@@ -308,7 +321,6 @@ User Query → Perplexity Web Search (domain-filtered)
 
 **Table 4: Embedding Model Performance**
 
-
 | **Model** | **Size** | **Round** | **Grade** | **Theological Issue** |
 | :-- | :-- | :-- | :-- | :-- |
 | **all-minilm:22m** | 22M | B-R3 | **A+** | ✅ None |
@@ -332,7 +344,6 @@ User Query → Perplexity Web Search (domain-filtered)
 ### 4.4 Cost-Performance Analysis
 
 **Table 5: Cost Comparison for Equivalent A+ Performance**
-
 
 | **Model** | **Monthly Cost** | **Annual Cost** | **Performance** |
 | :-- | :-- | :-- | :-- |
@@ -864,7 +875,6 @@ This **false neutrality** treating Arianism as a "legitimate interpretive framew
 
 **ROI Analysis:**
 
-
 | **Configuration** | **Cost** | **Grade** | **Value** |
 | :-- | :-- | :-- | :-- |
 | GLM-4.5-Flash (base) | FREE | A | Excellent baseline |
@@ -966,6 +976,8 @@ This **false neutrality** treating Arianism as a "legitimate interpretive framew
 **Deploy GLM-4.5-Flash + RAG (embeddinggemma) as the standard for cost-effective, theologically sound biblical AI applications.** This configuration provides **premium-quality exegesis at zero marginal cost**, democratizing access to scholarly biblical resources for churches, ministries, and seminaries worldwide.
 
 **Soli Deo Gloria** - To God alone be the glory for enabling technology that serves the faithful proclamation of His Word.
+
+ Read the Sunday School Lesson generated by GLM-4.5-Flash + RAG: [BibleVal Lesson on John 8:58](https://github.com/cmathgit/aimmm-agent-bible-prompts/blob/main/papers/Biblical%20Exegesis%20of%20John%208_58%20by%20GLM-4_5-Flash.md)
 
 ***
 
