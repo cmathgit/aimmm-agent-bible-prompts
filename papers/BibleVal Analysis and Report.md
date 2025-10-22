@@ -1,4 +1,4 @@
-# BibliVal: A Novel Benchmark for Evaluating Large Language Models on Biblical Exegesis
+# BibleVal: A Novel Benchmark for Evaluating Large Language Models on Biblical Exegesis
 
 **Authors:** Powered by Perplexity Deep Research Pro
 **Curator:** Cruz Macias
@@ -9,7 +9,7 @@
 
 ## Abstract
 
-This paper introduces **BibliVal (Bible Benchmark)**, a specialized evaluation framework designed to assess Large Language Model (LLM) performance on theological tasks requiring linguistic precision, doctrinal fidelity, and scholarly rigor. Using **John 8:58** as the test case—a cornerstone passage for Christian christology—we evaluated 11 LLM configurations across dimensions including Greek/Hebrew accuracy, theological orthodoxy, confessional alignment, and pastoral application.
+This paper introduces **BibleVal (Bible Benchmark)**, a specialized evaluation framework designed to assess Large Language Model (LLM) performance on theological tasks requiring linguistic precision, doctrinal fidelity, and scholarly rigor. Using **John 8:58** as the test case—a cornerstone passage for Christian christology—we evaluated 11 LLM configurations across dimensions including Greek/Hebrew accuracy, theological orthodoxy, confessional alignment, and pastoral application.
 
 Our findings challenge conventional assumptions about LLM cost-performance trade-offs and "Christian AI" superiority claims. **GLM-4.5-Flash**, a free API-based model enhanced with Retrieval-Augmented Generation (RAG) architecture, achieved **A+ performance** matching premium models (GPT-5 at \$20/month, Claude-4.5-Sonnet at \$20/month or $2.5-$3/$10-$15 per 1M I/O tokens, repsectively) at **~\$0.005 per query** or **\$0.00** with free alternatives. Contrary to marketing claims from "Christian AI" platforms, **non-Christian LLMs** (Claude-4.5-Sonnet, Perplexity Sonar, GLM-4.6) consistently produced **theologically orthodox, Baptist Faith \& Message 2000-aligned exegesis**.
 
@@ -51,7 +51,7 @@ This study addresses three primary questions:
 
 ### 1.3 Contributions
 
-1. **BibliVal Framework:** A reproducible benchmark for theological LLM evaluation
+1. **BibleVal Framework:** A reproducible benchmark for theological LLM evaluation
 2. **Cost-Performance Analysis:** Empirical comparison of free vs. premium models across theological dimensions
 3. **RAG Architecture Guidelines:** Best practices for embedding model selection in theological contexts
 4. **Stakeholder Recommendations:** Deployment strategies for churches, ministries, and seminaries
@@ -295,7 +295,7 @@ User Query → Perplexity Web Search (domain-filtered)
 **FaithGPT Marketing Claim:**
 > "FaithGPT does NOT have an anti-christian bias" (FAQ, 2024)
 
-**BibliVal Contradiction:**
+**BibleVal Contradiction:**
 
 - FaithGPT (K-R1) with instructions: **B-** grade - Alarmist, demon-focused
 - FaithGPT (K-R2) without instructions: **A** grade - Improved but still below non-Christian models
@@ -365,7 +365,7 @@ User Query → Perplexity Web Search (domain-filtered)
 **FaithGPT Article (Brown, 2024):**
 > "These sophisticated systems, ChatGPT included, could be reflecting biases against the Christian ethos."
 
-**BibliVal Evidence:**
+**BibleVal Evidence:**
 
 
 | **Model** | **Training Source** | **Grade** | **Baptist Alignment** |
@@ -375,7 +375,7 @@ User Query → Perplexity Web Search (domain-filtered)
 | GLM-4.5-Flash | General internet (Chinese) | **A+** | ✅ Exemplary |
 | GPT-5 | General internet | **B+** | ⚠️ Shallow |
 
-**Counterargument:** BibliVal results show **no evidence** of anti-Christian bias in base LLMs. The **only theological failure** (Round 4) resulted from the **qwen3-embedding model**, not the base LLM.
+**Counterargument:** BibleVal results show **no evidence** of anti-Christian bias in base LLMs. The **only theological failure** (Round 4) resulted from the **qwen3-embedding model**, not the base LLM.
 
 **FaithGPT's Failure (K-R1, B- grade):**
 
@@ -450,7 +450,7 @@ User Query → Perplexity Web Search (domain-filtered)
 
 ### 6.1 Single-Passage Test
 
-BibliVal currently evaluates only **John 8:58**. Future work should expand to:
+BibleVal currently evaluates only **John 8:58**. Future work should expand to:
 
 - Multiple genres (narrative, wisdom, apocalyptic)
 - Old Testament passages (Hebrew analysis)
@@ -536,13 +536,13 @@ This suggests **prompt engineering** significantly impacts output quality.
 
 **Seminary Use Cases:**
 
-1. **Exegesis Paper Evaluation:** Use BibliVal as rubric for grading student work
+1. **Exegesis Paper Evaluation:** Use BibleVal as rubric for grading student work
 2. **Comparative Hermeneutics:** Demonstrate LLM differences in theological interpretation
 3. **Ethics Education:** Case study on "Christian AI" marketing vs. empirical performance
 
 **Research Opportunities:**
 
-- Expand BibliVal to 100+ passages across biblical genres
+- Expand BibleVal to 100+ passages across biblical genres
 - Multilingual exegesis evaluation (Greek, Hebrew, Latin, modern languages)
 - Denominational alignment testing (Reformed, Lutheran, Catholic, Orthodox)
 
@@ -552,7 +552,7 @@ This suggests **prompt engineering** significantly impacts output quality.
 
 ### 8.1 Benchmark Expansion
 
-**BibliVal 2.0 Roadmap:**
+**BibleVal 2.0 Roadmap:**
 
 - **100 passages** across Old/New Testaments
 - **Multiple languages** (Greek, Hebrew, Spanish, Chinese)
@@ -578,7 +578,7 @@ This suggests **prompt engineering** significantly impacts output quality.
 
 ## 9. Conclusion
 
-This study introduces **BibliVal**, a novel benchmark for evaluating LLM performance on biblical exegesis tasks requiring linguistic precision, theological orthodoxy, and confessional alignment. Using **John 8:58** as the test case, we evaluated 11 LLM configurations across dimensions including Greek/Hebrew accuracy, Baptist Faith \& Message 2000 alignment, and pastoral application.
+This study introduces **BibleVal**, a novel benchmark for evaluating LLM performance on biblical exegesis tasks requiring linguistic precision, theological orthodoxy, and confessional alignment. Using **John 8:58** as the test case, we evaluated 11 LLM configurations across dimensions including Greek/Hebrew accuracy, Baptist Faith \& Message 2000 alignment, and pastoral application.
 
 Our findings challenge three prevalent assumptions:
 
@@ -592,11 +592,11 @@ Our findings challenge three prevalent assumptions:
 
 **Soli Deo Gloria** - To God alone be the glory for enabling technology that serves the faithful proclamation of His eternal Word.
 
-# BibliVal Benchmark: Stakeholder Presentation Report
+# BibleVal Benchmark: Stakeholder Presentation Report
 
 ## Executive Summary
 
-This report presents the results of **BibliVal (Bible Benchmark)**, a specialized evaluation framework for Large Language Models (LLMs) focused on biblical exegesis. The test challenges models to produce theologically sound, academically rigorous exegesis of **John 8:58**, a cornerstone passage for Christian doctrine on the deity of Christ.
+This report presents the results of **BibleVal (Bible Benchmark)**, a specialized evaluation framework for Large Language Models (LLMs) focused on biblical exegesis. The test challenges models to produce theologically sound, academically rigorous exegesis of **John 8:58**, a cornerstone passage for Christian doctrine on the deity of Christ.
 
 **Key Finding:** GLM-4.5-Flash (free) with optimized RAG architecture **matches or exceeds** the performance of premium models (GPT-5 and  Claude-4.5-Sonnet at \$20/month or $2.5-$3/$10-$15 per 1M I/O tokens, respectively), demonstrating that **cost-effective LLM deployment can maintain theological integrity and scholarly excellence**.
 
@@ -744,7 +744,7 @@ John 8:58 ("Before Abraham was, I am") serves as an ideal benchmark because it r
 **FaithGPT's Article Claim** (Tonye Brown, Nov 2024):
 > "These sophisticated systems, ChatGPT included, could be reflecting biases against the Christian ethos."
 
-**BibliVal Results Contradict This:**
+**BibleVal Results Contradict This:**
 
 
 | **Model** | **Grade** | **Theological Orthodoxy** | **BFM2000 Alignment** |
@@ -847,7 +847,7 @@ This **false neutrality** treating Arianism as a "legitimate interpretive framew
 
 ### **Concern 2: "Will Non-Christian LLMs Compromise Biblical Truth?"**
 
-**Answer: NO.** BibliVal results show:
+**Answer: NO.** BibleVal results show:
 
 - ✅ **Claude-4.5-Sonnet** (Anthropic, non-Christian company): **A+ theological orthodoxy**
 - ✅ **GLM-4.6** (Chinese company, secular): **A+ Trinitarian precision**
