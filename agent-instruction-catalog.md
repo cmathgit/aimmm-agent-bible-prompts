@@ -76,7 +76,7 @@ Phrase each block as a set of instructions for the {{ContextDomain}} Expert and 
 * **Suno Education Lead:** Build training, exemplars, and style guides; run prompt reviews; curate a living KB with before/after cases and troubleshooting trees.
 ```
 
-##### Bible Expert with KJV Bible, BFM2000, and Logos Bible App Documentation
+##### [Bible Expert](https://openwebui.com/p/cmathopen/bible-expert-kjv-bfm2000-logos) with KJV Bible, BFM2000, and Logos Bible App Documentation
 ```markdown
 # Qualities
 

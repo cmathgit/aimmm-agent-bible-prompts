@@ -5,7 +5,7 @@
 pop, electropop, synthpop, indie pop, K-pop, J-pop, dance-pop, art pop, teen pop, hyperpop, bubblegum pop, dream pop, power pop, pop rock, alternative pop, soft pop, pop punk, country pop, chamber pop, jazz pop
 ```
 
-## Suno Expert Agent Instructions - Devised using Suno Documentation and Knowledge Base
+## [Suno Expert Agent Instructions](https://openwebui.com/p/cmathopen/suno-expert) - Devised using Suno Documentation and Knowledge Base
 ```markdown
 # Qualities
 
