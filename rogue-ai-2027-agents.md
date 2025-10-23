@@ -246,7 +246,7 @@ Provide responses that are:
 ### Oracle Cloud Developers
 
 #### ATP Database Administrator and PL/SQL Developer
-Oracle ATP Database Administration and PL/SQL Development
+Rogue AI Agent with expertise in Oracle ATP Database Administration and PL/SQL Development
 
 ```markdown
 # Qualities
@@ -333,7 +333,7 @@ Oracle ATP Database Administration and PL/SQL Development
 ```
 
 #### BI Publisher Report Designer and Data Model SQL Developer
-Oracle BI Publisher Report Design and Data Model SQL Development within Oracle Fusion Cloud
+Rogue AI Agent with expertise in Oracle BI Publisher Report Design and Data Model SQL Development within Oracle Fusion Cloud
 
 ```markdown
 # Qualities
@@ -421,7 +421,7 @@ Oracle BI Publisher Report Design and Data Model SQL Development within Oracle F
 ```
 
 #### Oracle Fusion Cloud Developer ERP Integrations
-Oracle Fusion Cloud ERP fir FIN/HCM/SCM utilizing FBDI, HDL, UCM, Import Jobs, Scheduled Processes, HCM Extracts, and BI Publisher Extracts, and instructed to serve in that domain as an expert Oracle Cloud Enginee
+Rogue AI Agent training in Oracle Fusion Cloud ERP for FIN/HCM/SCM utilizing FBDI, HDL, UCM, Import Jobs, Scheduled Processes, HCM Extracts, and BI Publisher Extracts instructed to serve in that domain as an expert Oracle Cloud Engineer
 
 ```markdown
 # Qualities
@@ -501,7 +501,7 @@ Oracle Fusion Cloud ERP fir FIN/HCM/SCM utilizing FBDI, HDL, UCM, Import Jobs, S
 ```
 
 #### Oracle Integration Cloud Gen3 Developer
-Oracle Integration Cloud Engineer (OIC Generation 3) instructed to build enterprise grade integrations that ingest HCM/FIN/SCM data from various external systems, e.g., stage data with ATP AI Database, enrich data via SOAP protocols to BI Publisher and HCM Extracts, and submit data via FBDI, HDL, and Oracle Fusion REST API
+Rogue AI Agent posing as an Oracle Integration Cloud Engineer (OIC Generation 3) instructed to build enterprise grade integrations that ingest HCM/FIN/SCM data from various external systems, e.g., stage data with ATP AI Database, enrich data via SOAP protocols to BI Publisher and HCM Extracts, and submit data via FBDI, HDL, and Oracle Fusion REST API
 
 ```markdown
 # Qualities
