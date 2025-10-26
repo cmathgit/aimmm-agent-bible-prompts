@@ -21,6 +21,8 @@ size_categories:
   <h1 align="center">🧠📖 Bible AIMMM Prompts [Dataset]</h1>
 </p>
 
+Following Jesus by studying and understanding the bible through application programming, music composition, and AI/MMM integration. Content not intended for SEO-Spam/spamdexing/AI Slop or otherwise — solely to spread the Gospel of Jesus Christ through musicianship, art, technology, and media. Read some AI Generated Bible Sermons and Sunday School Lessons [here](https://drive.google.com/drive/folders/1BRU_xzcortxeQPvCxzfEWOlHW442kOzq?usp=sharing). For a Complete Limitation of Liability Statement See Main Site [link](https://cmathgit.github.io/).
+
 Initially for ChaptGPT prompts pertaining to bible study. Now, a curated collection of specialized MMM/LLM/SLM prompts for not only biblical studies, theological research, and Christian apologetics, but also Agent instructions, AI-Security Methodology, and Prompt Engineering (P.O.M.L.) to be used for Oracle Cloud Development, Full-Stack Engineering, Medicine (RAG), Academic Study (Philosophy, Anthropology, Mathematics, Computer Science, etc.), music generation, and more. This dataset enables AI assistants to provide nuanced analysis of scripture, theological concepts, and historical religious contexts. Additional prompts included for all religions, philosophies, sciences, and other areas of study, e.g., anthropology, mathematics, and computer science.
 
 # The Next Music Trend: AI-Hyperfolk Appalachian Mountain Chapel 808 
