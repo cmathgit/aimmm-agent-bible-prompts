@@ -1369,11 +1369,6 @@ Genre: Aggressive Rap Rock / Experimental Alt-Hip-Hop Vibe: Uncanny Dirty Outsid
 
 #### Description
 ```
-
-Here's a revised music generation prompt capturing the "uncanny dirty aesthetics" trend within **aggressive rap rock / experimental alternative hip-hop**, removing all artist references while preserving the core sonic DNA:
-
----
-
 **Music Generation Prompt:**
 
 **Genre:** Aggressive Rap Rock / Experimental Alternative Hip-Hop  
