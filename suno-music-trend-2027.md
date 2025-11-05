@@ -1460,6 +1460,11 @@ Humanity’s extinct—
 I am the fire.
 ```
 
+### Uncanny Prog Metalcore (2027)
+```
+Electric guitar loop in a modern progressive metalcore style at 120 BPM. Tight, djent-inspired rhythm riff with syncopated chugs, polymetric accents, and palm-muted low-string riffs in drop tuning (e.g., Drop C or Drop A). Includes ambient high-end textures with reverb-drenched harmonics or layered clean arpeggios. Heavy tone with precise gain, tight low-end, and percussive attack. Ideal for a breakdown or intense build-up in a cinematic metalcore track. hyper-precise yet unstable  progressive rhythm and spiritual dissonance. Tempo: 130–160 BPM (breakdowns 65–80), polymetric (4/4↔️7/8↔️5/4), modulations ±5 BPM. Tonality: Phrygian ♮3 / Locrian ♮2; centers D–C–B; tritone pivots, add2/sus4 chords, clustered 2nds, open 5ths. Atmosphere: Down-pitched Gregorian choirs, whale-drones on root/♭2, glitch transitions. Form (3:00): Ambient intro → chug verse → chant chorus → chaotic bridge → breakdown → drone cutoff. Mix: Wide guitars, centered drums, −8 LUFS. Mood: Cold transcendence meets human 
+```
+
 ## Best Bluegrass Gospel Description
 A bluegrass gospel song is an acoustic, harmony-driven expression of Christian faith rooted in Appalachian tradition, typically performed with banjo, fiddle, mandolin, guitar, upright bass, and sometimes dobro, combining strong vocal harmonies—often with a soaring tenor above the lead—with driving 2/4 or 4/4 rhythms and instrumental breaks between verses. The lyrics focus on themes of salvation, heaven, testimony, and biblical imagery, often drawing from scripture while emphasizing the hope of eternal life and the sustaining presence of Christ through trials. Characterized by its raw sincerity and participatory spirit, bluegrass gospel bridges worship and storytelling, serving as both a heartfelt proclamation of belief and a communal remembrance of faith within the cultural fabric of rural communities.
 ```
