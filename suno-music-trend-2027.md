@@ -1518,6 +1518,9 @@ progressive metalcore, PlayStation Mix, early 2000s drum & bass, Frutiger Aero, 
 #### [Instrumentals](https://suno.com/s/S5jrfJZ3Z7Vd81YV)
 progressive metalcore, PlayStation Mix, early 2000s drum & bass, Frutiger Aero, liquid, Y2K, intelligent, cello, horn, minimalism, dark dub, synth, sub-bass
 
+#### Keywords 
+Metalcore, Deathcore, brutal breakdowns, chugging riffs, crabcore, worshipcore
+
 ### Best Bluegrass Gospel Description (1000 Characters)
 A bluegrass gospel song is an acoustic, harmony-rich form of Christian expression rooted in Appalachian tradition, featuring banjo, fiddle, mandolin, guitar, upright bass, and often dobro, with driving rhythms and instrumental breaks between verses. Vocals emphasize close harmony, especially the high, lonesome tenor above the lead, creating a powerful, emotional sound. Lyrics focus on salvation, heaven, and redemption, often drawing directly from scripture or testimony of faith. The style blends worship and storytelling, offering both a proclamation of belief and a communal memory of faith, performed with sincerity and participation rather than polish.
 
