@@ -1511,6 +1511,12 @@ Your goal is to define and preserve the style of **Bluegrass Gospel**, capturing
 Provide composition guidelines, analyses, or generated examples that remain faithful to the essence of Bluegrass Gospel, both musically and theologically.  
 ```
 
+### Minimalist Metalcore EDM
+progressive metalcore, PlayStation Mix, early 2000s drum & bass, Frutiger Aero, liquid, Y2K, intelligent, cello, horn, minimalism, dark dub, synth, sub-bass, early 2010s screamo,  (breakdowns 65–80), modulations ±5 BPM; polymetric (4/4↔️7/8↔️5/4). Tonality: Phrygian ♮3 / Locrian ♮2, centers D–C–B; tritone pivots, add2/sus4 chords, clustered 2nds, open 5ths. Guitars: Dual 8-strings (Drop E/C#); left: syncopated chugs; right: ambient dissonant leads, 4th stacks, reverse delays. Bass: Midrange grit (3–5 kHz), counter-rhythmic slides. Drums: Tight kicks, ghost-note snares, rim accents; gated cymbals; alternates mechanical precision ↔️ human looseness. Vocals: Screamo fry + clean chant detuned −10 cents; octave doubles for intensity. Atmosphere: Down-pitched choirs, whale-like drones on root and ♭2, sidechained to kick, glitch textures between sections.
+
+#### Instrumentals
+progressive metalcore, PlayStation Mix, early 2000s drum & bass, Frutiger Aero, liquid, Y2K, intelligent, cello, horn, minimalism, dark dub, synth, sub-bass
+
 ### Best Bluegrass Gospel Description (1000 Characters)
 A bluegrass gospel song is an acoustic, harmony-rich form of Christian expression rooted in Appalachian tradition, featuring banjo, fiddle, mandolin, guitar, upright bass, and often dobro, with driving rhythms and instrumental breaks between verses. Vocals emphasize close harmony, especially the high, lonesome tenor above the lead, creating a powerful, emotional sound. Lyrics focus on salvation, heaven, and redemption, often drawing directly from scripture or testimony of faith. The style blends worship and storytelling, offering both a proclamation of belief and a communal memory of faith, performed with sincerity and participation rather than polish.
 
