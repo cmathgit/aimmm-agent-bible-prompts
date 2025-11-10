@@ -1515,6 +1515,9 @@ Provide composition guidelines, analyses, or generated examples that remain fait
 #### [Persona](https://suno.com/persona/5a73e759-999e-4911-b753-040feb944e7f)
 progressive metalcore, PlayStation Mix, early 2000s drum & bass, Frutiger Aero, liquid, Y2K, intelligent, cello, horn, minimalism, dark dub, synth, sub-bass, early 2010s screamo,  (breakdowns 65–80), modulations ±5 BPM; polymetric (4/4↔️7/8↔️5/4). Tonality: Phrygian ♮3 / Locrian ♮2, centers D–C–B; tritone pivots, add2/sus4 chords, clustered 2nds, open 5ths. Guitars: Dual 8-strings (Drop E/C#); left: syncopated chugs; right: ambient dissonant leads, 4th stacks, reverse delays. Bass: Midrange grit (3–5 kHz), counter-rhythmic slides. Drums: Tight kicks, ghost-note snares, rim accents; gated cymbals; alternates mechanical precision ↔️ human looseness. Vocals: Screamo fry + clean chant detuned −10 cents; octave doubles for intensity. Atmosphere: Down-pitched choirs, whale-like drones on root and ♭2, sidechained to kick, glitch textures between sections.
 
+#### [Minimalist Metalcore Cello Adaptations (EDM) Playlist](https://suno.com/playlist/6dd26ac1-7bd4-4287-8304-dfc3b8a391a9)
+Progressive metalcore melodies as performed on cello with some EDM (DnB)
+
 #### [Instrumentals](https://suno.com/s/S5jrfJZ3Z7Vd81YV)
 progressive metalcore, PlayStation Mix, early 2000s drum & bass, Frutiger Aero, liquid, Y2K, intelligent, cello, horn, minimalism, dark dub, synth, sub-bass
 
