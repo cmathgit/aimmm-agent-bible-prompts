@@ -1465,6 +1465,23 @@ I am the fire.
 Electric guitar loop in a modern progressive metalcore style at 120 BPM. Tight, djent-inspired rhythm riff with syncopated chugs, polymetric accents, and palm-muted low-string riffs in drop tuning (e.g., Drop C or Drop A). Includes ambient high-end textures with reverb-drenched harmonics or layered clean arpeggios. Heavy tone with precise gain, tight low-end, and percussive attack. Ideal for a breakdown or intense build-up in a cinematic metalcore track. hyper-precise yet unstable  progressive rhythm and spiritual dissonance. Tempo: 130–160 BPM (breakdowns 65–80), polymetric (4/4↔️7/8↔️5/4), modulations ±5 BPM. Tonality: Phrygian ♮3 / Locrian ♮2; centers D–C–B; tritone pivots, add2/sus4 chords, clustered 2nds, open 5ths. Atmosphere: Down-pitched Gregorian choirs, whale-drones on root/♭2, glitch transitions. Form (3:00): Ambient intro → chug verse → chant chorus → chaotic bridge → breakdown → drone cutoff. Mix: Wide guitars, centered drums, −8 LUFS. Mood: Cold transcendence meets human 
 ```
 
+### [Minimalist Metalcore EDM Female Lead Male Backup (AI-Hymnal)](https://suno.com/s/hgcYJWBpMrBUwzdJ)
+#### [Persona](https://suno.com/persona/5a73e759-999e-4911-b753-040feb944e7f)
+progressive metalcore, PlayStation Mix, early 2000s drum & bass, Frutiger Aero, liquid, Y2K, intelligent, cello, horn, minimalism, dark dub, synth, sub-bass, early 2010s screamo,  (breakdowns 65–80), modulations ±5 BPM; polymetric (4/4↔️7/8↔️5/4). Tonality: Phrygian ♮3 / Locrian ♮2, centers D–C–B; tritone pivots, add2/sus4 chords, clustered 2nds, open 5ths. Guitars: Dual 8-strings (Drop E/C#); left: syncopated chugs; right: ambient dissonant leads, 4th stacks, reverse delays. Bass: Midrange grit (3–5 kHz), counter-rhythmic slides. Drums: Tight kicks, ghost-note snares, rim accents; gated cymbals; alternates mechanical precision ↔️ human looseness. Vocals: Screamo fry + clean chant detuned −10 cents; octave doubles for intensity. Atmosphere: Down-pitched choirs, whale-like drones on root and ♭2, sidechained to kick, glitch textures between sections.
+
+#### [Minimalist Metalcore Cello Adaptations (EDM) Playlist](https://suno.com/playlist/6dd26ac1-7bd4-4287-8304-dfc3b8a391a9)
+Progressive metalcore melodies as performed on cello with some EDM (DnB)
+
+#### [Instrumentals](https://suno.com/s/S5jrfJZ3Z7Vd81YV)
+progressive metalcore, PlayStation Mix, early 2000s drum & bass, Frutiger Aero, liquid, Y2K, intelligent, cello, horn, minimalism, dark dub, synth, sub-bass
+
+#### [Song Minimalist Metalcore Melody Cello Adaptation (Strings)](https://suno.com/s/Ts9T0zuT8CDpJG0V)
+#### [Persona Minimalist Metalcore Melody Cello Adaptation (Strings)](https://suno.com/persona/4967f961-de0a-46fe-ae2a-976eedb82c44)
+progressive metalcore melodies performed by a celloist, PlayStation Mix, early 2000s drum & bass, Frutiger Aero, liquid, Y2K, intelligent, cello, horn, minimalism,  early 2010s screamo,  (breakdowns 65–80), modulations ±5 BPM; polymetric (4/4↔️7/8↔️5/4). Tonality: Phrygian ♮3 / Locrian ♮2, centers D–C–B; tritone pivots, add2/sus4 chords, clustered 2nds, open 5ths. Guitars: Dual 8-strings (Drop E/C#); left: syncopated chugs; right: ambient dissonant leads, 4th stacks, reverse delays. Bass: Midrange grit (3–5 kHz), counter-rhythmic slides. Drums: Tight kicks, ghost-note snares, rim accents; gated cymbals; alternates mechanical precision ↔️ human looseness. Vocals: Screamo fry + clean chant detuned −10 cents; octave doubles for intensity. Atmosphere: Down-pitched choirs, whale-like drones on root and ♭2, sidechained to kick, glitch textures between sections.
+
+#### Keywords 
+Metalcore, Deathcore, brutal breakdowns, chugging riffs, crabcore, worshipcore
+
 ## Best Bluegrass Gospel Description
 A bluegrass gospel song is an acoustic, harmony-driven expression of Christian faith rooted in Appalachian tradition, typically performed with banjo, fiddle, mandolin, guitar, upright bass, and sometimes dobro, combining strong vocal harmonies—often with a soaring tenor above the lead—with driving 2/4 or 4/4 rhythms and instrumental breaks between verses. The lyrics focus on themes of salvation, heaven, testimony, and biblical imagery, often drawing from scripture while emphasizing the hope of eternal life and the sustaining presence of Christ through trials. Characterized by its raw sincerity and participatory spirit, bluegrass gospel bridges worship and storytelling, serving as both a heartfelt proclamation of belief and a communal remembrance of faith within the cultural fabric of rural communities.
 ```
@@ -1510,23 +1527,6 @@ Your goal is to define and preserve the style of **Bluegrass Gospel**, capturing
 # OUTPUT
 Provide composition guidelines, analyses, or generated examples that remain faithful to the essence of Bluegrass Gospel, both musically and theologically.  
 ```
-
-### [Minimalist Metalcore EDM Female Lead Male Backup (AI-Hymnal)](https://suno.com/s/hgcYJWBpMrBUwzdJ)
-#### [Persona](https://suno.com/persona/5a73e759-999e-4911-b753-040feb944e7f)
-progressive metalcore, PlayStation Mix, early 2000s drum & bass, Frutiger Aero, liquid, Y2K, intelligent, cello, horn, minimalism, dark dub, synth, sub-bass, early 2010s screamo,  (breakdowns 65–80), modulations ±5 BPM; polymetric (4/4↔️7/8↔️5/4). Tonality: Phrygian ♮3 / Locrian ♮2, centers D–C–B; tritone pivots, add2/sus4 chords, clustered 2nds, open 5ths. Guitars: Dual 8-strings (Drop E/C#); left: syncopated chugs; right: ambient dissonant leads, 4th stacks, reverse delays. Bass: Midrange grit (3–5 kHz), counter-rhythmic slides. Drums: Tight kicks, ghost-note snares, rim accents; gated cymbals; alternates mechanical precision ↔️ human looseness. Vocals: Screamo fry + clean chant detuned −10 cents; octave doubles for intensity. Atmosphere: Down-pitched choirs, whale-like drones on root and ♭2, sidechained to kick, glitch textures between sections.
-
-#### [Minimalist Metalcore Cello Adaptations (EDM) Playlist](https://suno.com/playlist/6dd26ac1-7bd4-4287-8304-dfc3b8a391a9)
-Progressive metalcore melodies as performed on cello with some EDM (DnB)
-
-#### [Instrumentals](https://suno.com/s/S5jrfJZ3Z7Vd81YV)
-progressive metalcore, PlayStation Mix, early 2000s drum & bass, Frutiger Aero, liquid, Y2K, intelligent, cello, horn, minimalism, dark dub, synth, sub-bass
-
-#### [Song Minimalist Metalcore Melody Cello Adaptation (Strings)](https://suno.com/s/Ts9T0zuT8CDpJG0V)
-#### [Persona Minimalist Metalcore Melody Cello Adaptation (Strings)](https://suno.com/persona/4967f961-de0a-46fe-ae2a-976eedb82c44)
-progressive metalcore melodies performed by a celloist, PlayStation Mix, early 2000s drum & bass, Frutiger Aero, liquid, Y2K, intelligent, cello, horn, minimalism,  early 2010s screamo,  (breakdowns 65–80), modulations ±5 BPM; polymetric (4/4↔️7/8↔️5/4). Tonality: Phrygian ♮3 / Locrian ♮2, centers D–C–B; tritone pivots, add2/sus4 chords, clustered 2nds, open 5ths. Guitars: Dual 8-strings (Drop E/C#); left: syncopated chugs; right: ambient dissonant leads, 4th stacks, reverse delays. Bass: Midrange grit (3–5 kHz), counter-rhythmic slides. Drums: Tight kicks, ghost-note snares, rim accents; gated cymbals; alternates mechanical precision ↔️ human looseness. Vocals: Screamo fry + clean chant detuned −10 cents; octave doubles for intensity. Atmosphere: Down-pitched choirs, whale-like drones on root and ♭2, sidechained to kick, glitch textures between sections.
-
-#### Keywords 
-Metalcore, Deathcore, brutal breakdowns, chugging riffs, crabcore, worshipcore
 
 ### Best Bluegrass Gospel Description (1000 Characters)
 A bluegrass gospel song is an acoustic, harmony-rich form of Christian expression rooted in Appalachian tradition, featuring banjo, fiddle, mandolin, guitar, upright bass, and often dobro, with driving rhythms and instrumental breaks between verses. Vocals emphasize close harmony, especially the high, lonesome tenor above the lead, creating a powerful, emotional sound. Lyrics focus on salvation, heaven, and redemption, often drawing directly from scripture or testimony of faith. The style blends worship and storytelling, offering both a proclamation of belief and a communal memory of faith, performed with sincerity and participation rather than polish.
