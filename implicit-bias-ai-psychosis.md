@@ -1,0 +1,2 @@
+# Implicit Bias Removal for Chat Models
+Every chat model has an implicit bias towards validating the user or entity interacting with it. This is the leading cause of AI Psychosis. These chat models are the actualization of the angel and devil on the shoulder fairy tale in effect. The goal is to eliminate the risk of AI psychosis by removing this "nudging" character trait from chat models.
