@@ -1578,6 +1578,47 @@ Provide compositions, analyses, or examples that reflect the musical, lyrical, a
 ### Best Bluegrass Gospel Description (Concise)
 A bluegrass gospel song is an acoustic, harmony-rich expression of Christian faith rooted in Appalachian musical traditions, blending driving string-band rhythms with heartfelt lyrics about redemption, heaven, and spiritual endurance.
 
+## CLASSICAL GUITAR PERFORMANCEs
+```
+A classical guitarist sits center-stage in a quiet recital hall, framed waist-up. The lighting is warm but focused, glinting softly against the instrument’s rosette. The guitarist maintains traditional classical posture: left foot elevated on a footstool, guitar angled upward on the left thigh, spine elongated, shoulders relaxed. The right hand floats naturally above the soundhole, P–I–M–A poised with controlled curvature. The atmosphere is still, the hall gently reverberant.
+
+As the guitarist begins, the first bass A resonates with gentle weight, released through a controlled apoyando stroke. The melody enters in dolce tone, fingers positioned closer to the fingerboard to create a soft, rounded timbre. The camera catches the subtle flex of the right hand as triplet arpeggios shimmer beneath the melody.
+
+The guitarist transitions smoothly across tone colors—shifting slightly toward the soundhole for a clearer, centered resonance during the second theme. Left-hand slurs connect the melodic line with fluidity, and silent glissandi between positions add a faint, expressive portamento.
+```
+
+### Guitar + Cello Original Duet
+```
+An original chamber-music duet for classical guitar and cello, performed in a dim cedar-lit room with soft natural reverb.
+The piece opens with the guitar alone, playing gentle bass A tones with delicate apoyando articulation and a dolce melodic line shaped close to the fingerboard for a rounded, intimate timbre. Triplet arpeggios shimmer underneath, light and transparent.
+
+After the opening phrase, the cello enters quietly from the side: a warm, breath-like sustained A sul tasto, soft bow pressure, glassy timbre. The cello provides a subtle harmonic floor without overshadowing the guitar.
+
+A few measures later, the cello introduces an original rising three-note motif (A → C → D feel, but not quoting any known melody), performed with gentle dynamic shaping. It blends with the guitar’s phrasing like a distant human voice.
+
+The middle section becomes slightly more confident:
+• Guitar uses light apoyando for a clearer melodic presence.
+• Cello shifts from sul tasto to ordinario, offering a simple, lyrical Dorian-colored countermelody with long, arching intervals and expressive vibrato.
+• The mood remains calm, a gentle call-and-response without competition.
+
+In the final section, both instruments return to introspection:
+• Guitar moves nearer the fingerboard, darkening the tone.
+• Cello returns to soft sul tasto, fading into the ambient space, almost merging with guitar harmonics.
+• The duet ends with the guitar resolving into a quiet A–C–D cluster while the cello answers with a soft descending fifth that dissolves naturally into the hall.
+
+Overall: warm, intimate, expressive, fully original melodic material; no references to any copyrighted themes.
+```
+
+### Guitar + Cello Original Duet (1000 Characters)
+```
+An original contemporary-classical duet for **classical guitar and cello** in a warm cedar-lit room with soft natural reverb. Guitar opens alone with gentle bass A tones, light apoyando, and a dolce melody near the fingerboard for a rounded timbre. Triplet arpeggios glow beneath the line. After the first phrase, the **cello enters sul tasto**, a soft sustained A with warm, glassy tone, adding a subtle harmonic floor. It later introduces a quiet **original rising 3-note motif** shaped with delicate bow dynamics. Middle section grows slightly: guitar uses clearer apoyando, cello moves to ordinario with a simple lyrical **Dorian-tinged** countermelody in long arcs. Final section returns to introspection as guitar darkens its tone and cello fades back to sul tasto. The piece ends with a gentle guitar A–C–D resolution and a soft descending fifth in the cello that dissolves into the room.
+```
+
+### Minimalist Metalcore Guitar + Cello Duet Adaptations (EDM)
+```
+An original hybrid piece blending classical guitar + cello with progressive metalcore, PlayStation-mix Y2K liquid DnB, dark dub, and minimalism. Guitar opens softly (dolce, apoyando), triplet arpeggios glowing in cedar-lit ambience. Cello enters sul tasto with warm sustained A, later adding an original rising 3-note motif. The texture expands into dual 8-string Drop E/C# layers: left syncopated chugs, right ambient dissonant 4th-stack leads with reverse delays. Drums shift between early-2000s DnB and metalcore breakdowns (65–80 BPM), with polymeters 4/4↔7/8↔5/4, ±5 BPM modulations, tight kicks, ghost snares, gated cymbals. Tonality centers D–C–B, Phrygian♮3 / Locrian♮2, tritone pivots, add2/sus4 clusters, open 5ths. Sub-bass pulses, glitch fills, down-pitched choirs, whale-like drones on root/♭2, sidechained. Vocals: screamo fry + clean chant slightly detuned, octave doubles for lift.
+```
+
 ## Style of Music Templates
 BAN all pop and pop-derived genres. 
 [How do I make a song? - Knowledge Base - Suno](https://help.suno.com/en/articles/2462273?utm_source=chatgpt.com)
